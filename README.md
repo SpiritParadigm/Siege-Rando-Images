@@ -1,2 +1,3 @@
 # Siege-Rando-Images
-tee hee
+All Images are Property of Ubisoft
+
