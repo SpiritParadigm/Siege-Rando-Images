@@ -42,7 +42,7 @@
                         "LASER": "Attackers/Ash/PrimaryWeapons/G36C/UnderBarrelAttachments/LASER.png"
                     }
                 },
-                "R4C": {
+                "R4-C": {
                     "BarrelAttachments": {
                         "COMPENSATOR": "Attackers/Ash/PrimaryWeapons/R4-C/BarrelAttachments/COMPENSATOR.png",
                         "EXTENDED BARREL": "Attackers/Ash/PrimaryWeapons/R4-C/BarrelAttachments/EXTENDED_BARREL.png",
@@ -75,70 +75,22 @@
                     "UnderBarrelAttachments": {
                         "LASER": "Attackers/Ash/PrimaryWeapons/R4-C/UnderBarrelAttachments/LASER.png"
                     }
-                },
-                "R4-C": {
-                    "BarrelAttachments": {
-                        "MUZZLE BRAKE": "Attackers/Ash/PrimaryWeapons/R4-C/BarrelAttachments/MUZZLE_BRAKE.png",
-                        "SUPPRESSOR": "Attackers/Ash/PrimaryWeapons/R4-C/BarrelAttachments/SUPPRESSOR.png",
-                        "FLASH HIDER": "Attackers/Ash/PrimaryWeapons/R4-C/BarrelAttachments/FLASH_HIDER.png",
-                        "EXTENDED BARREL": "Attackers/Ash/PrimaryWeapons/R4-C/BarrelAttachments/EXTENDED_BARREL.png",
-                        "COMPENSATOR": "Attackers/Ash/PrimaryWeapons/R4-C/BarrelAttachments/COMPENSATOR.png"
-                    },
-                    "GripAttachments": {
-                        "HORIZONTAL GRIP": "Attackers/Ash/PrimaryWeapons/R4-C/GripAttachments/HORIZONTAL_GRIP.png",
-                        "VERTICAL GRIP": "Attackers/Ash/PrimaryWeapons/R4-C/GripAttachments/VERTICAL_GRIP.png",
-                        "ANGLED GRIP": "Attackers/Ash/PrimaryWeapons/R4-C/GripAttachments/ANGLED_GRIP.png"
-                    },
-                    "R4-C": "Attackers/Ash/PrimaryWeapons/R4-C/R4-C.png",
-                    "SightAttachments": {
-                        "HOLO A": "Attackers/Ash/PrimaryWeapons/R4-C/SightAttachments/HOLO_A.png",
-                        "RED DOT A": "Attackers/Ash/PrimaryWeapons/R4-C/SightAttachments/RED_DOT_A.png",
-                        "RED DOT C": "Attackers/Ash/PrimaryWeapons/R4-C/SightAttachments/RED_DOT_C.png",
-                        "MAGNIFIED A": "Attackers/Ash/PrimaryWeapons/R4-C/SightAttachments/MAGNIFIED_A.png",
-                        "REFLEX B": "Attackers/Ash/PrimaryWeapons/R4-C/SightAttachments/REFLEX_B.png",
-                        "MAGNIFIED B": "Attackers/Ash/PrimaryWeapons/R4-C/SightAttachments/MAGNIFIED_B.png",
-                        "REFLEX A": "Attackers/Ash/PrimaryWeapons/R4-C/SightAttachments/REFLEX_A.png",
-                        "HOLO B": "Attackers/Ash/PrimaryWeapons/R4-C/SightAttachments/HOLO_B.png",
-                        "MAGNIFIED C": "Attackers/Ash/PrimaryWeapons/R4-C/SightAttachments/MAGNIFIED_C.png",
-                        "HOLO D": "Attackers/Ash/PrimaryWeapons/R4-C/SightAttachments/HOLO_D.png",
-                        "IRON SIGHT": "Attackers/Ash/PrimaryWeapons/R4-C/SightAttachments/IRON SIGHT.png",
-                        "REFLEX C": "Attackers/Ash/PrimaryWeapons/R4-C/SightAttachments/REFLEX_C.png",
-                        "RED DOT B": "Attackers/Ash/PrimaryWeapons/R4-C/SightAttachments/RED_DOT_B.png",
-                        "HOLO C": "Attackers/Ash/PrimaryWeapons/R4-C/SightAttachments/HOLO_C.png"
-                    },
-                    "UnderBarrelAttachments": {
-                        "LASER": "Attackers/Ash/PrimaryWeapons/R4-C/UnderBarrelAttachments/LASER.png"
-                    }
                 }
             },
             "SecondaryWeapons": {
-                "5.7USG": {
+                "5.7 USG": {
                     "5.7 USG": "Attackers/Ash/SecondaryWeapons/5.7 USG/5.7 USG.png",
                     "BarrelAttachments": {
                         "MUZZLE BRAKE": "Attackers/Ash/SecondaryWeapons/5.7 USG/BarrelAttachments/MUZZLE_BRAKE.png",
                         "SUPPRESSOR": "Attackers/Ash/SecondaryWeapons/5.7 USG/BarrelAttachments/SUPPRESSOR.png"
                     }
                 },
-                "M45MEUSOC": {
+                "M45 MEUSOC": {
                     "BarrelAttachments": {
                         "MUZZLE BRAKE": "Attackers/Ash/SecondaryWeapons/M45 MEUSOC/BarrelAttachments/MUZZLE_BRAKE.png",
                         "SUPPRESSOR": "Attackers/Ash/SecondaryWeapons/M45 MEUSOC/BarrelAttachments/SUPPRESSOR.png"
                     },
                     "M54 MEUSOC": "Attackers/Ash/SecondaryWeapons/M45 MEUSOC/M54_MEUSOC.png"
-                },
-                "M45 MEUSOC": {
-                    "M54 MEUSOC": "Attackers/Ash/SecondaryWeapons/M45 MEUSOC/M54_MEUSOC.png",
-                    "BarrelAttachments": {
-                        "MUZZLE BRAKE": "Attackers/Ash/SecondaryWeapons/M45 MEUSOC/BarrelAttachments/MUZZLE_BRAKE.png",
-                        "SUPPRESSOR": "Attackers/Ash/SecondaryWeapons/M45 MEUSOC/BarrelAttachments/SUPPRESSOR.png"
-                    }
-                },
-                "5.7 USG": {
-                    "BarrelAttachments": {
-                        "MUZZLE BRAKE": "Attackers/Ash/SecondaryWeapons/5.7 USG/BarrelAttachments/MUZZLE_BRAKE.png",
-                        "SUPPRESSOR": "Attackers/Ash/SecondaryWeapons/5.7 USG/BarrelAttachments/SUPPRESSOR.png"
-                    },
-                    "5.7 USG": "Attackers/Ash/SecondaryWeapons/5.7 USG/5.7 USG.png"
                 }
             }
         },
@@ -356,7 +308,7 @@
                         "REFLEX C": "Defenders/Alibi/PrimaryWeapons/ACS12/SightAttachments/REFLEX_C.png"
                     }
                 },
-                "Mx4Storm": {
+                "Mx4 Storm": {
                     "BarrelAttachments": {
                         "COMPENSATOR": "Defenders/Alibi/PrimaryWeapons/Mx4 Storm/BarrelAttachments/COMPENSATOR.png",
                         "EXTENDED BARREL": "Defenders/Alibi/PrimaryWeapons/Mx4 Storm/BarrelAttachments/EXTENDED_BARREL.png",
@@ -382,34 +334,6 @@
                         "REFLEX A": "Defenders/Alibi/PrimaryWeapons/Mx4 Storm/SightAttachments/REFLEX_A.png",
                         "REFLEX B": "Defenders/Alibi/PrimaryWeapons/Mx4 Storm/SightAttachments/REFLEX_B.png",
                         "REFLEX C": "Defenders/Alibi/PrimaryWeapons/Mx4 Storm/SightAttachments/REFLEX_C.png"
-                    }
-                },
-                "Mx4 Storm": {
-                    "BarrelAttachments": {
-                        "MUZZLE BRAKE": "Defenders/Alibi/PrimaryWeapons/Mx4 Storm/BarrelAttachments/MUZZLE_BRAKE.png",
-                        "SUPPRESSOR": "Defenders/Alibi/PrimaryWeapons/Mx4 Storm/BarrelAttachments/SUPPRESSOR.png",
-                        "FLASH HIDER": "Defenders/Alibi/PrimaryWeapons/Mx4 Storm/BarrelAttachments/FLASH_HIDER.png",
-                        "EXTENDED BARREL": "Defenders/Alibi/PrimaryWeapons/Mx4 Storm/BarrelAttachments/EXTENDED_BARREL.png",
-                        "COMPENSATOR": "Defenders/Alibi/PrimaryWeapons/Mx4 Storm/BarrelAttachments/COMPENSATOR.png",
-                        "LASER": "Defenders/Alibi/PrimaryWeapons/Mx4 Storm/BarrelAttachments/LASER.png"
-                    },
-                    "GripAttachments": {
-                        "VERTICAL GRIP": "Defenders/Alibi/PrimaryWeapons/Mx4 Storm/GripAttachments/VERTICAL_GRIP.png",
-                        "ANGLED GRIP": "Defenders/Alibi/PrimaryWeapons/Mx4 Storm/GripAttachments/ANGLED_GRIP.png"
-                    },
-                    "Mx4 Storm": "Defenders/Alibi/PrimaryWeapons/Mx4 Storm/Mx4_Storm.webp",
-                    "SightAttachments": {
-                        "HOLO A": "Defenders/Alibi/PrimaryWeapons/Mx4 Storm/SightAttachments/HOLO_A.png",
-                        "RED DOT A": "Defenders/Alibi/PrimaryWeapons/Mx4 Storm/SightAttachments/RED_DOT_A.png",
-                        "RED DOT C": "Defenders/Alibi/PrimaryWeapons/Mx4 Storm/SightAttachments/RED_DOT_C.png",
-                        "REFLEX B": "Defenders/Alibi/PrimaryWeapons/Mx4 Storm/SightAttachments/REFLEX_B.png",
-                        "REFLEX A": "Defenders/Alibi/PrimaryWeapons/Mx4 Storm/SightAttachments/REFLEX_A.png",
-                        "HOLO B": "Defenders/Alibi/PrimaryWeapons/Mx4 Storm/SightAttachments/HOLO_B.png",
-                        "HOLO D": "Defenders/Alibi/PrimaryWeapons/Mx4 Storm/SightAttachments/HOLO_D.png",
-                        "IRON SIGHT": "Defenders/Alibi/PrimaryWeapons/Mx4 Storm/SightAttachments/IRON SIGHT.png",
-                        "REFLEX C": "Defenders/Alibi/PrimaryWeapons/Mx4 Storm/SightAttachments/REFLEX_C.png",
-                        "RED DOT B": "Defenders/Alibi/PrimaryWeapons/Mx4 Storm/SightAttachments/RED_DOT_B.png",
-                        "HOLO C": "Defenders/Alibi/PrimaryWeapons/Mx4 Storm/SightAttachments/HOLO_C.png"
                     }
                 }
             },
