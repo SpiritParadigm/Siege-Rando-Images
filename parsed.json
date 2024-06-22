@@ -1,5 +1,6 @@
 {
     "Attackers": {
+        "Attackers Icon": "GroupIcons/Attackers_Icon.svg",
         "Ash": {
             "Ash": "OpsImages/Ash.png",
             "Ash Icon": "OpsIcons/Ash_Icon.png",
@@ -274,6 +275,7 @@
         }
     },
     "Defenders": {
+        "Defenders Icon": "GroupIcons/Defenders_Icon.svg",
         "Alibi": {
             "Alibi": "OpsImages/Alibi.webp",
             "Alibi Icon": "OpsIcons/Alibi_Icon.webp",
