@@ -328,9 +328,6 @@
             "PrimaryWeapons": {
                 "ACS12": {
                     "Image": "Weapons/PrimaryWeapons/ACS12.webp",
-                    "UnderBarrelAttachments": {
-                        "LASER": "LASER"
-                    },
                     "GripAttachments": {
                         "ANGLED GRIP": "ANGLED_GRIP",
                         "VERTICAL GRIP": "VERTICAL_GRIP"
@@ -350,6 +347,9 @@
                         "REFLEX A": "REFLEX_A",
                         "REFLEX B": "REFLEX_B",
                         "REFLEX C": "REFLEX_C"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER"
                     }
                 },
                 "Mx4 Storm": {
