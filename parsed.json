@@ -1,96 +1,138 @@
 {
+    "References": {
+        "COMPENSATOR": "Attachments/BarrelAttachments/COMPENSATOR.png",
+        "EXTENDED_BARREL": "Attachments/BarrelAttachments/EXTENDED_BARREL.png",
+        "FLASH_HIDER": "Attachments/BarrelAttachments/FLASH_HIDER.png",
+        "MUZZLE_BRAKE": "Attachments/BarrelAttachments/MUZZLE_BRAKE.png",
+        "SUPPRESSOR": "Attachments/BarrelAttachments/SUPPRESSOR.png",
+        "ANGLED_GRIP": "Attachments/GripAttachments/ANGLED_GRIP.png",
+        "HORIZONTAL_GRIP": "Attachments/GripAttachments/HORIZONTAL_GRIP.png",
+        "VERTICAL_GRIP": "Attachments/GripAttachments/VERTICAL_GRIP.png",
+        "HOLO_A": "Attachments/SightAttachments/HOLO_A.png",
+        "HOLO_B": "Attachments/SightAttachments/HOLO_B.png",
+        "HOLO_C": "Attachments/SightAttachments/HOLO_C.png",
+        "HOLO_D": "Attachments/SightAttachments/HOLO_D.png",
+        "IRON SIGHT": "Attachments/SightAttachments/IRON SIGHT.png",
+        "MAGNIFIED_A": "Attachments/SightAttachments/MAGNIFIED_A.png",
+        "MAGNIFIED_B": "Attachments/SightAttachments/MAGNIFIED_B.png",
+        "MAGNIFIED_C": "Attachments/SightAttachments/MAGNIFIED_C.png",
+        "RED_DOT_A": "Attachments/SightAttachments/RED_DOT_A.png",
+        "RED_DOT_B": "Attachments/SightAttachments/RED_DOT_B.png",
+        "RED_DOT_C": "Attachments/SightAttachments/RED_DOT_C.png",
+        "REFLEX_A": "Attachments/SightAttachments/REFLEX_A.png",
+        "REFLEX_B": "Attachments/SightAttachments/REFLEX_B.png",
+        "REFLEX_C": "Attachments/SightAttachments/REFLEX_C.png",
+        "LASER": "Attachments/UnderBarrelAttachments/LASER.png",
+        "Breach_Charge": "Equipment/Breach_Charge.png",
+        "Hard Breach Charge": "Equipment/Hard Breach Charge.png",
+        "Smoke Grenade": "Equipment/Smoke Grenade.png",
+        "Claymore": "Equipment/Claymore.png",
+        "Gonne_6": "Weapons/SecondaryWeapons/Gonne_6.png",
+        "PMM": "Weapons/SecondaryWeapons/PMM.png",
+        "Frag": "Equipment/Frag.png",
+        "P12": "Weapons/SecondaryWeapons/P12.png",
+        "Impact EMP": "Equipment/Impact EMP.png",
+        "Stun Grenade": "Equipment/Stun Grenade.png",
+        "L85A2": "Weapons/PrimaryWeapons/L85A2.png",
+        "M590A1": "Weapons/PrimaryWeapons/M590A1.png",
+        "P226_MK_25": "Weapons/SecondaryWeapons/P226_MK_25.png",
+        "5.7 USG": "Weapons/SecondaryWeapons/5.7 USG.png",
+        "M54_MEUSOC": "Weapons/SecondaryWeapons/M54_MEUSOC.png",
+        "LFP589": "Weapons/SecondaryWeapons/LFP589.png",
+        "P9": "Weapons/SecondaryWeapons/P9.png"
+    },
     "Attackers": {
         "Icon": "GroupIcons/Attackers_Icon.svg",
         "Ash": {
             "Icon": "OPIcons/Ash_Icon.png",
             "Image": "OPImages/Ash.png",
             "Equipment": {
-                "Breach Charge": "Equipment/Breach_Charge.png",
-                "Claymore": "Equipment/Claymore.png"
+                "Breach Charge": "Breach_Charge",
+                "Claymore": "Claymore"
             },
             "PrimaryWeapons": {
                 "G36C": {
                     "Image": "Weapons/PrimaryWeapons/G36C.png",
                     "BarrelAttachments": {
-                        "COMPENSATOR": "Weapons/BarrelAttachments/COMPENSATOR.png",
-                        "EXTENDED BARREL": "Weapons/BarrelAttachments/EXTENDED_BARREL.png",
-                        "FLASH HIDER": "Weapons/BarrelAttachments/FLASH_HIDER.png",
-                        "MUZZLE BRAKE": "Weapons/BarrelAttachments/MUZZLE_BRAKE.png",
-                        "SUPPRESSOR": "Weapons/BarrelAttachments/SUPPRESSOR.png"
+                        "COMPENSATOR": "COMPENSATOR",
+                        "EXTENDED BARREL": "EXTENDED_BARREL",
+                        "FLASH HIDER": "FLASH_HIDER",
+                        "MUZZLE BRAKE": "MUZZLE_BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR"
                     },
                     "GripAttachments": {
-                        "ANGLED GRIP": "Weapons/GripAttachments/ANGLED_GRIP.png",
-                        "HORIZONTAL GRIP": "Weapons/GripAttachments/HORIZONTAL_GRIP.png",
-                        "VERTICAL GRIP": "Weapons/GripAttachments/VERTICAL_GRIP.png"
+                        "ANGLED GRIP": "ANGLED_GRIP",
+                        "HORIZONTAL GRIP": "HORIZONTAL_GRIP",
+                        "VERTICAL GRIP": "VERTICAL_GRIP"
                     },
                     "SightAttachments": {
-                        "HOLO A": "Weapons/SightAttachments/HOLO_A.png",
-                        "HOLO B": "Weapons/SightAttachments/HOLO_B.png",
-                        "HOLO C": "Weapons/SightAttachments/HOLO_C.png",
-                        "HOLO D": "Weapons/SightAttachments/HOLO_D.png",
-                        "IRON SIGHT": "Weapons/SightAttachments/IRON SIGHT.png",
-                        "MAGNIFIED A": "Weapons/SightAttachments/MAGNIFIED_A.png",
-                        "MAGNIFIED B": "Weapons/SightAttachments/MAGNIFIED_B.png",
-                        "MAGNIFIED C": "Weapons/SightAttachments/MAGNIFIED_C.png",
-                        "RED DOT A": "Weapons/SightAttachments/RED_DOT_A.png",
-                        "RED DOT B": "Weapons/SightAttachments/RED_DOT_B.png",
-                        "RED DOT C": "Weapons/SightAttachments/RED_DOT_C.png",
-                        "REFLEX A": "Weapons/SightAttachments/REFLEX_A.png",
-                        "REFLEX B": "Weapons/SightAttachments/REFLEX_B.png",
-                        "REFLEX C": "Weapons/SightAttachments/REFLEX_C.png"
+                        "HOLO A": "HOLO_A",
+                        "HOLO B": "HOLO_B",
+                        "HOLO C": "HOLO_C",
+                        "HOLO D": "HOLO_D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "MAGNIFIED A": "MAGNIFIED_A",
+                        "MAGNIFIED B": "MAGNIFIED_B",
+                        "MAGNIFIED C": "MAGNIFIED_C",
+                        "RED DOT A": "RED_DOT_A",
+                        "RED DOT B": "RED_DOT_B",
+                        "RED DOT C": "RED_DOT_C",
+                        "REFLEX A": "REFLEX_A",
+                        "REFLEX B": "REFLEX_B",
+                        "REFLEX C": "REFLEX_C"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "Weapons/UnderBarrelAttachments/LASER.png"
+                        "LASER": "LASER"
                     }
                 },
                 "R4-C": {
                     "Image": "Weapons/PrimaryWeapons/R4-C.png",
                     "BarrelAttachments": {
-                        "COMPENSATOR": "Weapons/BarrelAttachments/COMPENSATOR.png",
-                        "EXTENDED BARREL": "Weapons/BarrelAttachments/EXTENDED_BARREL.png",
-                        "FLASH HIDER": "Weapons/BarrelAttachments/FLASH_HIDER.png",
-                        "MUZZLE BRAKE": "Weapons/BarrelAttachments/MUZZLE_BRAKE.png",
-                        "SUPPRESSOR": "Weapons/BarrelAttachments/SUPPRESSOR.png"
+                        "COMPENSATOR": "COMPENSATOR",
+                        "EXTENDED BARREL": "EXTENDED_BARREL",
+                        "FLASH HIDER": "FLASH_HIDER",
+                        "MUZZLE BRAKE": "MUZZLE_BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR"
                     },
                     "GripAttachments": {
-                        "ANGLED GRIP": "Weapons/GripAttachments/ANGLED_GRIP.png",
-                        "HORIZONTAL GRIP": "Weapons/GripAttachments/HORIZONTAL_GRIP.png",
-                        "VERTICAL GRIP": "Weapons/GripAttachments/VERTICAL_GRIP.png"
+                        "ANGLED GRIP": "ANGLED_GRIP",
+                        "HORIZONTAL GRIP": "HORIZONTAL_GRIP",
+                        "VERTICAL GRIP": "VERTICAL_GRIP"
                     },
                     "SightAttachments": {
-                        "HOLO A": "Weapons/SightAttachments/HOLO_A.png",
-                        "HOLO B": "Weapons/SightAttachments/HOLO_B.png",
-                        "HOLO C": "Weapons/SightAttachments/HOLO_C.png",
-                        "HOLO D": "Weapons/SightAttachments/HOLO_D.png",
-                        "IRON SIGHT": "Weapons/SightAttachments/IRON SIGHT.png",
-                        "MAGNIFIED A": "Weapons/SightAttachments/MAGNIFIED_A.png",
-                        "MAGNIFIED B": "Weapons/SightAttachments/MAGNIFIED_B.png",
-                        "MAGNIFIED C": "Weapons/SightAttachments/MAGNIFIED_C.png",
-                        "RED DOT A": "Weapons/SightAttachments/RED_DOT_A.png",
-                        "RED DOT B": "Weapons/SightAttachments/RED_DOT_B.png",
-                        "RED DOT C": "Weapons/SightAttachments/RED_DOT_C.png",
-                        "REFLEX A": "Weapons/SightAttachments/REFLEX_A.png",
-                        "REFLEX B": "Weapons/SightAttachments/REFLEX_B.png",
-                        "REFLEX C": "Weapons/SightAttachments/REFLEX_C.png"
+                        "HOLO A": "HOLO_A",
+                        "HOLO B": "HOLO_B",
+                        "HOLO C": "HOLO_C",
+                        "HOLO D": "HOLO_D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "MAGNIFIED A": "MAGNIFIED_A",
+                        "MAGNIFIED B": "MAGNIFIED_B",
+                        "MAGNIFIED C": "MAGNIFIED_C",
+                        "RED DOT A": "RED_DOT_A",
+                        "RED DOT B": "RED_DOT_B",
+                        "RED DOT C": "RED_DOT_C",
+                        "REFLEX A": "REFLEX_A",
+                        "REFLEX B": "REFLEX_B",
+                        "REFLEX C": "REFLEX_C"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "Weapons/UnderBarrelAttachments/LASER.png"
+                        "LASER": "LASER"
                     }
                 }
             },
             "SecondaryWeapons": {
                 "5.7 USG": {
-                    "Image": "Weapons/SecondaryWeapons/5.7 USG.png",
+                    "Image": "5.7 USG",
                     "BarrelAttachments": {
-                        "MUZZLE BRAKE": "Weapons/BarrelAttachments/MUZZLE_BRAKE.png",
-                        "SUPPRESSOR": "Weapons/BarrelAttachments/SUPPRESSOR.png"
+                        "MUZZLE BRAKE": "MUZZLE_BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR"
                     }
                 },
                 "M45 MEUSOC": {
-                    "Image": "Weapons/SecondaryWeapons/M54_MEUSOC.png",
+                    "Image": "M54_MEUSOC",
                     "BarrelAttachments": {
-                        "MUZZLE BRAKE": "Weapons/BarrelAttachments/MUZZLE_BRAKE.png",
-                        "SUPPRESSOR": "Weapons/BarrelAttachments/SUPPRESSOR.png"
+                        "MUZZLE BRAKE": "MUZZLE_BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR"
                     }
                 }
             }
@@ -99,29 +141,29 @@
             "Icon": "OPIcons/Blitz_Icon.png",
             "Image": "OPImages/Blitz.png",
             "Equipment": {
-                "Breach Charge": "Equipment/Breach_Charge.png",
-                "Smoke Grenade": "Equipment/Smoke Grenade.png"
+                "Breach Charge": "Breach_Charge",
+                "Smoke Grenade": "Smoke Grenade"
             },
             "PrimaryWeapons": {
                 "G52-Tactical Shield": "Weapons/PrimaryWeapons/G52-Tactical_Shield.png"
             },
             "SecondaryWeapons": {
-                "P12": "Weapons/SecondaryWeapons/P12.png"
+                "P12": "P12"
             }
         },
         "Buck": {
             "Icon": "OPIcons/Buck_Icon.png",
             "Image": "OPImages/Buck.png",
             "Equipment": {
-                "Hard Breach Charge": "Equipment/Hard Breach Charge.png",
-                "Stun Grenade": "Equipment/Stun Grenade.png"
+                "Hard Breach Charge": "Hard Breach Charge",
+                "Stun Grenade": "Stun Grenade"
             },
             "PrimaryWeapons": {
                 "C8-SFW": "Weapons/PrimaryWeapons/C8-SFW.png",
                 "CAMRS": "Weapons/PrimaryWeapons/CAMRS.png"
             },
             "SecondaryWeapons": {
-                "Gonne 6": "Weapons/SecondaryWeapons/Gonne_6.png",
+                "Gonne 6": "Gonne_6",
                 "MK1 9mm": "Weapons/SecondaryWeapons/MK1_9mm.png"
             }
         },
@@ -129,9 +171,9 @@
             "Icon": "OPIcons/Fuze_Icon.png",
             "Image": "OPImages/Fuze.png",
             "Equipment": {
-                "Breach Charge": "Equipment/Breach_Charge.png",
-                "Hard Breach Charge": "Equipment/Hard Breach Charge.png",
-                "Smoke Grenade": "Equipment/Smoke Grenade.png"
+                "Breach Charge": "Breach_Charge",
+                "Hard Breach Charge": "Hard Breach Charge",
+                "Smoke Grenade": "Smoke Grenade"
             },
             "PrimaryWeapons": {
                 "6P41": "Weapons/PrimaryWeapons/6P41.png",
@@ -140,33 +182,33 @@
             },
             "SecondaryWeapons": {
                 "GSH-18": "Weapons/SecondaryWeapons/GSH-18.png",
-                "PMM": "Weapons/SecondaryWeapons/PMM.png"
+                "PMM": "PMM"
             }
         },
         "Glaz": {
             "Icon": "OPIcons/Glaz_Icon.png",
             "Image": "OPImages/Glaz.png",
             "Equipment": {
-                "Claymore": "Equipment/Claymore.png",
-                "Frag": "Equipment/Frag.png",
-                "Smoke Grenade": "Equipment/Smoke Grenade.png"
+                "Claymore": "Claymore",
+                "Frag": "Frag",
+                "Smoke Grenade": "Smoke Grenade"
             },
             "PrimaryWeapons": {
                 "0Ts-03": "Weapons/PrimaryWeapons/0Ts-03.png"
             },
             "SecondaryWeapons": {
                 "Bearing 9": "Weapons/SecondaryWeapons/Bearing_9.png",
-                "Gonne 6": "Weapons/SecondaryWeapons/Gonne_6.png",
-                "PMM": "Weapons/SecondaryWeapons/PMM.png"
+                "Gonne 6": "Gonne_6",
+                "PMM": "PMM"
             }
         },
         "IQ": {
             "Icon": "OPIcons/IQ_Icon.png",
             "Image": "OPImages/IQ.png",
             "Equipment": {
-                "Breach Charge": "Equipment/Breach_Charge.png",
-                "Claymore": "Equipment/Claymore.png",
-                "Frag": "Equipment/Frag.png"
+                "Breach Charge": "Breach_Charge",
+                "Claymore": "Claymore",
+                "Frag": "Frag"
             },
             "PrimaryWeapons": {
                 "552 COMMANDO": "Weapons/PrimaryWeapons/552_COMMANDO.png",
@@ -174,79 +216,79 @@
                 "G8A1": "Weapons/PrimaryWeapons/G8A1.png"
             },
             "SecondaryWeapons": {
-                "P12": "Weapons/SecondaryWeapons/P12.png"
+                "P12": "P12"
             }
         },
         "Montagne": {
             "Icon": "OPIcons/Montagne_Icon.png",
             "Image": "OPImages/Montagne.png",
             "Equipment": {
-                "Hard Breach Charge": "Equipment/Hard Breach Charge.png",
-                "Impact EMP": "Equipment/Impact EMP.png",
-                "Smoke Grenade": "Equipment/Smoke Grenade.png"
+                "Hard Breach Charge": "Hard Breach Charge",
+                "Impact EMP": "Impact EMP",
+                "Smoke Grenade": "Smoke Grenade"
             },
             "PrimaryWeapons": {
                 "LE ROC SHIELD": "Weapons/PrimaryWeapons/LE_ROC_SHIELD.png"
             },
             "SecondaryWeapons": {
-                "LFP589": "Weapons/SecondaryWeapons/LFP589.png",
-                "P9": "Weapons/SecondaryWeapons/P9.png"
+                "LFP589": "LFP589",
+                "P9": "P9"
             }
         },
         "Sledge": {
             "Icon": "OPIcons/Sledge_Icon.png",
             "Image": "OPImages/Sledge.png",
             "Equipment": {
-                "Frag": "Equipment/Frag.png",
-                "Impact EMP": "Equipment/Impact EMP.png",
-                "Stun Grenade": "Equipment/Stun Grenade.png"
+                "Frag": "Frag",
+                "Impact EMP": "Impact EMP",
+                "Stun Grenade": "Stun Grenade"
             },
             "PrimaryWeapons": {
-                "L85A2": "Weapons/PrimaryWeapons/L85A2.png",
-                "M590A1": "Weapons/PrimaryWeapons/M590A1.png"
+                "L85A2": "L85A2",
+                "M590A1": "M590A1"
             },
             "SecondaryWeapons": {
-                "P226 MK 25": "Weapons/SecondaryWeapons/P226_MK_25.png"
+                "P226 MK 25": "P226_MK_25"
             }
         },
         "Thatcher": {
             "Icon": "OPIcons/Thatcher_Icon.png",
             "Image": "OPImages/Thatcher.png",
             "Equipment": {
-                "Breach Charge": "Equipment/Breach_Charge.png",
-                "Claymore": "Equipment/Claymore.png"
+                "Breach Charge": "Breach_Charge",
+                "Claymore": "Claymore"
             },
             "PrimaryWeapons": {
                 "AR33": "Weapons/PrimaryWeapons/AR33.png",
-                "L85A2": "Weapons/PrimaryWeapons/L85A2.png",
-                "M590A1": "Weapons/PrimaryWeapons/M590A1.png"
+                "L85A2": "L85A2",
+                "M590A1": "M590A1"
             },
             "SecondaryWeapons": {
-                "P226 MK 25": "Weapons/SecondaryWeapons/P226_MK_25.png"
+                "P226 MK 25": "P226_MK_25"
             }
         },
         "Thermite": {
             "Icon": "OPIcons/Thermite_Icon.png",
             "Image": "OPImages/Thermite.png",
             "Equipment": {
-                "Smoke Grenade": "Equipment/Smoke Grenade.png",
-                "Stun Grenade": "Equipment/Stun Grenade.png"
+                "Smoke Grenade": "Smoke Grenade",
+                "Stun Grenade": "Stun Grenade"
             },
             "PrimaryWeapons": {
                 "556XI": "Weapons/PrimaryWeapons/556XI.png",
                 "M1014": "Weapons/PrimaryWeapons/M1014.png"
             },
             "SecondaryWeapons": {
-                "5.7 USG": "Weapons/SecondaryWeapons/5.7 USG.png",
-                "M54 MEUSOC": "Weapons/SecondaryWeapons/M54_MEUSOC.png"
+                "5.7 USG": "5.7 USG",
+                "M54 MEUSOC": "M54_MEUSOC"
             }
         },
         "Twitch": {
             "Icon": "OPIcons/Twitch_Icon.png",
             "Image": "OPImages/Twitch.png",
             "Equipment": {
-                "Claymore": "Equipment/Claymore.png",
-                "Smoke Grenade": "Equipment/Smoke Grenade.png"
+                "Claymore": "Claymore",
+                "Smoke Grenade": "Smoke Grenade"
             },
             "PrimaryWeapons": {
                 "417": "Weapons/PrimaryWeapons/417.png",
@@ -254,16 +296,16 @@
                 "SG-CQB": "Weapons/PrimaryWeapons/SG-CQB.png"
             },
             "SecondaryWeapons": {
-                "LFP589": "Weapons/SecondaryWeapons/LFP589.png",
-                "P9": "Weapons/SecondaryWeapons/P9.png"
+                "LFP589": "LFP589",
+                "P9": "P9"
             }
         },
         "Zofia": {
             "Icon": "OPIcons/zofia_icon.png",
             "Image": "OPImages/Zofia.png",
             "Equipment": {
-                "Breach Charge": "Equipment/Breach_Charge.png",
-                "Claymore": "Equipment/Claymore.png"
+                "Breach Charge": "Breach_Charge",
+                "Claymore": "Claymore"
             },
             "PrimaryWeapons": {
                 "LMG E": "Weapons/PrimaryWeapons/LMG_E.png",
@@ -286,56 +328,58 @@
             "PrimaryWeapons": {
                 "ACS12": {
                     "Image": "Weapons/PrimaryWeapons/ACS12.webp",
-                    "BarrelAttachments": {
-                        "LASER": "Weapons/BarrelAttachments/LASER.png"
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER"
                     },
                     "GripAttachments": {
-                        "ANGLED GRIP": "Weapons/GripAttachments/ANGLED_GRIP.png",
-                        "VERTICAL GRIP": "Weapons/GripAttachments/VERTICAL_GRIP.png"
+                        "ANGLED GRIP": "ANGLED_GRIP",
+                        "VERTICAL GRIP": "VERTICAL_GRIP"
                     },
                     "SightAttachments": {
-                        "HOLO A": "Weapons/SightAttachments/HOLO_A.png",
-                        "HOLO B": "Weapons/SightAttachments/HOLO_B.png",
-                        "HOLO C": "Weapons/SightAttachments/HOLO_C.png",
-                        "HOLO D": "Weapons/SightAttachments/HOLO_D.png",
-                        "IRON SIGHT": "Weapons/SightAttachments/IRON SIGHT.png",
-                        "MAGNIFIED A": "Weapons/SightAttachments/MAGNIFIED_A.png",
-                        "MAGNIFIED B": "Weapons/SightAttachments/MAGNIFIED_B.png",
-                        "MAGNIFIED C": "Weapons/SightAttachments/MAGNIFIED_C.png",
-                        "RED DOT A": "Weapons/SightAttachments/RED_DOT_A.png",
-                        "RED DOT B": "Weapons/SightAttachments/RED_DOT_B.png",
-                        "RED DOT C": "Weapons/SightAttachments/RED_DOT_C.png",
-                        "REFLEX A": "Weapons/SightAttachments/REFLEX_A.png",
-                        "REFLEX B": "Weapons/SightAttachments/REFLEX_B.png",
-                        "REFLEX C": "Weapons/SightAttachments/REFLEX_C.png"
+                        "HOLO A": "HOLO_A",
+                        "HOLO B": "HOLO_B",
+                        "HOLO C": "HOLO_C",
+                        "HOLO D": "HOLO_D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "MAGNIFIED A": "MAGNIFIED_A",
+                        "MAGNIFIED B": "MAGNIFIED_B",
+                        "MAGNIFIED C": "MAGNIFIED_C",
+                        "RED DOT A": "RED_DOT_A",
+                        "RED DOT B": "RED_DOT_B",
+                        "RED DOT C": "RED_DOT_C",
+                        "REFLEX A": "REFLEX_A",
+                        "REFLEX B": "REFLEX_B",
+                        "REFLEX C": "REFLEX_C"
                     }
                 },
                 "Mx4 Storm": {
                     "Image": "Weapons/PrimaryWeapons/Mx4_Storm.webp",
                     "BarrelAttachments": {
-                        "COMPENSATOR": "Weapons/BarrelAttachments/COMPENSATOR.png",
-                        "EXTENDED BARREL": "Weapons/BarrelAttachments/EXTENDED_BARREL.png",
-                        "FLASH HIDER": "Weapons/BarrelAttachments/FLASH_HIDER.png",
-                        "LASER": "Weapons/BarrelAttachments/LASER.png",
-                        "MUZZLE BRAKE": "Weapons/BarrelAttachments/MUZZLE_BRAKE.png",
-                        "SUPPRESSOR": "Weapons/BarrelAttachments/SUPPRESSOR.png"
+                        "COMPENSATOR": "COMPENSATOR",
+                        "EXTENDED BARREL": "EXTENDED_BARREL",
+                        "FLASH HIDER": "FLASH_HIDER",
+                        "MUZZLE BRAKE": "MUZZLE_BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR"
                     },
                     "GripAttachments": {
-                        "ANGLED GRIP": "Weapons/GripAttachments/ANGLED_GRIP.png",
-                        "VERTICAL GRIP": "Weapons/GripAttachments/VERTICAL_GRIP.png"
+                        "ANGLED GRIP": "ANGLED_GRIP",
+                        "VERTICAL GRIP": "VERTICAL_GRIP"
                     },
                     "SightAttachments": {
-                        "HOLO A": "Weapons/SightAttachments/HOLO_A.png",
-                        "HOLO B": "Weapons/SightAttachments/HOLO_B.png",
-                        "HOLO C": "Weapons/SightAttachments/HOLO_C.png",
-                        "HOLO D": "Weapons/SightAttachments/HOLO_D.png",
-                        "IRON SIGHT": "Weapons/SightAttachments/IRON SIGHT.png",
-                        "RED DOT A": "Weapons/SightAttachments/RED_DOT_A.png",
-                        "RED DOT B": "Weapons/SightAttachments/RED_DOT_B.png",
-                        "RED DOT C": "Weapons/SightAttachments/RED_DOT_C.png",
-                        "REFLEX A": "Weapons/SightAttachments/REFLEX_A.png",
-                        "REFLEX B": "Weapons/SightAttachments/REFLEX_B.png",
-                        "REFLEX C": "Weapons/SightAttachments/REFLEX_C.png"
+                        "HOLO A": "HOLO_A",
+                        "HOLO B": "HOLO_B",
+                        "HOLO C": "HOLO_C",
+                        "HOLO D": "HOLO_D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED_DOT_A",
+                        "RED DOT B": "RED_DOT_B",
+                        "RED DOT C": "RED_DOT_C",
+                        "REFLEX A": "REFLEX_A",
+                        "REFLEX B": "REFLEX_B",
+                        "REFLEX C": "REFLEX_C"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER"
                     }
                 }
             },
