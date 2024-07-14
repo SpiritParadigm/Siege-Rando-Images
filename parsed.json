@@ -42,7 +42,10 @@
         "P9": "Weapons/SecondaryWeapons/P9.png"
     },
     "Attackers": {
-        "Icon": "GroupIcons/Attackers_Icon.svg",
+        "Icons": [
+            "GroupIcons/Attackers_Icon_hover.svg",
+            "GroupIcons/Attackers_Icon.svg"
+        ],
         "Ash": {
             "Icon": "OPIcons/Ash_Icon.png",
             "Image": "OPImages/Ash.png",
@@ -317,7 +320,10 @@
         }
     },
     "Defenders": {
-        "Icon": "GroupIcons/Defenders_Icon.svg",
+        "Icons": [
+            "GroupIcons/Defenders_Icon_hover.svg",
+            "GroupIcons/Defenders_Icon.svg"
+        ],
         "Alibi": {
             "Icon": "OPIcons/Alibi_Icon.webp",
             "Image": "OPImages/Alibi.webp",
