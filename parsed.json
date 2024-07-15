@@ -16,6 +16,8 @@
         "MAGNIFIED A": "Attachments/SightAttachments/MAGNIFIED_A.png",
         "MAGNIFIED B": "Attachments/SightAttachments/MAGNIFIED_B.png",
         "MAGNIFIED C": "Attachments/SightAttachments/MAGNIFIED_C.png",
+        "TELESCOPIC A": "Attachments/SightAttachments/TELESCOPIC_A.png",
+        "TELESCOPIC B": "Attachments/SightAttachments/TELESCOPIC_B.png",
         "RED DOT A": "Attachments/SightAttachments/RED_DOT_A.png",
         "RED DOT B": "Attachments/SightAttachments/RED_DOT_B.png",
         "RED DOT C": "Attachments/SightAttachments/RED_DOT_C.png",
@@ -151,13 +153,15 @@
                 "G52-Tactical Shield": "Weapons/PrimaryWeapons/G52-Tactical_Shield.png"
             },
             "SecondaryWeapons": {
-                "P12": "P12",
-                "BarrelAttachments": {
-                    "MUZZLE BRAKE": "MUZZLE BRAKE",
-                    "SUPPRESSOR": "SUPPRESSOR"
-                },
-                "UnderBarrelAttachments": {
-                    "LASER": "LASER"
+                "P12": {
+                    "Image": "P12",
+                    "BarrelAttachments": {
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER"
+                    }
                 }
             }
         },
@@ -169,8 +173,56 @@
                 "Stun Grenade": "Stun Grenade"
             },
             "PrimaryWeapons": {
-                "C8-SFW": "Weapons/PrimaryWeapons/C8-SFW.png",
-                "CAMRS": "Weapons/PrimaryWeapons/CAMRS.png"
+                "C8-SFW": {
+                    "Image": "Weapons/PrimaryWeapons/C8-SFW.png",
+                    "BarrelAttachments": {
+                        "COMPENSATOR": "COMPENSATOR",
+                        "EXTENDED BARREL": "EXTENDED BARREL",
+                        "FLASH HIDER": "FLASH HIDER",
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR"
+                    },
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "MAGNIFIED A": "MAGNIFIED A",
+                        "MAGNIFIED B": "MAGNIFIED B",
+                        "MAGNIFIED C": "MAGNIFIED C",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER"
+                    }
+                },
+                "CAMRS": {
+                    "Images": "Weapons/PrimaryWeapons/CAMRS.png",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "MAGNIFIED A": "MAGNIFIED A",
+                        "MAGNIFIED B": "MAGNIFIED B",
+                        "MAGNIFIED C": "MAGNIFIED C",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C",
+                        "TELESCOPIC A": "TELESCOPIC A",
+                        "TELESCOPIC B": "TELESCOPIC B"
+                    }
+                }
             },
             "SecondaryWeapons": {
                 "Gonne 6": "Gonne 6",
@@ -226,7 +278,16 @@
                 "G8A1": "Weapons/PrimaryWeapons/G8A1.png"
             },
             "SecondaryWeapons": {
-                "P12": "P12"
+                "P12": {
+                    "Image": "P12",
+                    "BarrelAttachments": {
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER"
+                    }
+                }
             }
         },
         "Montagne": {
