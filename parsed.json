@@ -47,7 +47,8 @@
         "CAMRS": "Weapons/PrimaryWeapons/CAMRS.png",
         "6P41": "Weapons/PrimaryWeapons/6P41.png",
         "AK-12": "Weapons/PrimaryWeapons/AK-12.png",
-        "GSH-18": "Weapons/SecondaryWeapons/GSH-18.png"
+        "GSH-18": "Weapons/SecondaryWeapons/GSH-18.png",
+        "Bearing 9": "Weapons/SecondaryWeapons/Bearing_9.png"
     },
     "Attackers": {
         "Icons": [
@@ -360,12 +361,73 @@
                 "Smoke Grenade": "Smoke Grenade"
             },
             "PrimaryWeapons": {
-                "0Ts-03": "Weapons/PrimaryWeapons/0Ts-03.png"
+                "0Ts-03": {
+                    "Image": "Weapons/PrimaryWeapons/0Ts-03.png",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "BarrelAttachments": {
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR"
+                    },
+                    "GripAttachments": {
+                        "ANGLED GRIP": "ANGLED GRIP",
+                        "HORIZONTAL GRIP": "HORIZONTAL GRIP",
+                        "VERTICAL GRIP": "VERTICAL GRIP"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER"
+                    }
+                }
             },
             "SecondaryWeapons": {
-                "Bearing 9": "Weapons/SecondaryWeapons/Bearing_9.png",
+                "Bearing 9": {
+                    "Image": "Bearing 9",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "BarrelAttachments": {
+                        "COMPENSATOR": "COMPENSATOR",
+                        "EXTENDED BARREL": "EXTENDED BARREL",
+                        "FLASH HIDER": "FLASH HIDER",
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER"
+                    }
+                },
                 "Gonne 6": "Gonne 6",
-                "PMM": "PMM"
+                "PMM": {
+                    "Images": "PMM",
+                    "BarrelAttachments": {
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER"
+                    }
+                }
             }
         },
         "IQ": {
