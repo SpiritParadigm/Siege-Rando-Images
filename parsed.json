@@ -52,7 +52,9 @@
         "552 COMMANDO": "Weapons/PrimaryWeapons/552_COMMANDO.png",
         "AUG A2": "Weapons/PrimaryWeapons/AUG_A2.png",
         "G8A1": "Weapons/PrimaryWeapons/G8A1.png",
-        "AR33": "Weapons/PrimaryWeapons/AR33.png"
+        "AR33": "Weapons/PrimaryWeapons/AR33.png",
+        "556XI": "Weapons/PrimaryWeapons/556XI.png",
+        "M1014": "Weapons/PrimaryWeapons/M1014.png"
     },
     "Attackers": {
         "Icons": [
@@ -772,8 +774,58 @@
                 "Stun Grenade": "Stun Grenade"
             },
             "PrimaryWeapons": {
-                "556XI": "Weapons/PrimaryWeapons/556XI.png",
-                "M1014": "Weapons/PrimaryWeapons/M1014.png"
+                "556XI": {
+                    "Image": "556XI",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "MAGNIFIED A": "MAGNIFIED A",
+                        "MAGNIFIED B": "MAGNIFIED B",
+                        "MAGNIFIED C": "MAGNIFIED C",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "BarrelAttachments": {
+                        "COMPENSATOR": "COMPENSATOR",
+                        "FLASH HIDER": "FLASH HIDER",
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR"
+                    },
+                    "GripAttachments": {
+                        "ANGLED GRIP": "ANGLED GRIP",
+                        "HORIZONTAL GRIP": "HORIZONTAL GRIP",
+                        "VERTICAL GRIP": "VERTICAL GRIP"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER"
+                    }
+                },
+                "M1014": {
+                    "Image": "M1014",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER"
+                    }
+                }
             },
             "SecondaryWeapons": {
                 "5.7 USG": "5.7 USG",
