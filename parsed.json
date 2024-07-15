@@ -948,8 +948,22 @@
                 }
             },
             "SecondaryWeapons": {
-                "LFP589": "LFP589",
-                "P9": "P9"
+                "LFP589": {
+                    "Image": "LFP589",
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER"
+                    }
+                },
+                "P9": {
+                    "Image": "P9",
+                    "BarrelAttachments": {
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER"
+                    }
+                }
             }
         },
         "Zofia": {
