@@ -48,7 +48,10 @@
         "6P41": "Weapons/PrimaryWeapons/6P41.png",
         "AK-12": "Weapons/PrimaryWeapons/AK-12.png",
         "GSH-18": "Weapons/SecondaryWeapons/GSH-18.png",
-        "Bearing 9": "Weapons/SecondaryWeapons/Bearing_9.png"
+        "Bearing 9": "Weapons/SecondaryWeapons/Bearing_9.png",
+        "552 COMMANDO": "Weapons/PrimaryWeapons/552_COMMANDO.png",
+        "AUG A2": "Weapons/PrimaryWeapons/AUG_A2.png",
+        "G8A1": "Weapons/PrimaryWeapons/G8A1.png"
     },
     "Attackers": {
         "Icons": [
@@ -439,9 +442,101 @@
                 "Frag": "Frag"
             },
             "PrimaryWeapons": {
-                "552 COMMANDO": "Weapons/PrimaryWeapons/552_COMMANDO.png",
-                "AUG A2": "Weapons/PrimaryWeapons/AUG_A2.png",
-                "G8A1": "Weapons/PrimaryWeapons/G8A1.png"
+                "552 COMMANDO": {
+                    "Image": "552 COMMANDO",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "MAGNIFIED A": "MAGNIFIED A",
+                        "MAGNIFIED B": "MAGNIFIED B",
+                        "MAGNIFIED C": "MAGNIFIED C",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "BarrelAttachments": {
+                        "COMPENSATOR": "COMPENSATOR",
+                        "EXTENDED BARREL": "EXTENDED BARREL",
+                        "FLASH HIDER": "FLASH HIDER",
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR"
+                    },
+                    "GripAttachments": {
+                        "ANGLED GRIP": "ANGLED GRIP",
+                        "HORIZONTAL GRIP": "HORIZONTAL GRIP",
+                        "VERTICAL GRIP": "VERTICAL GRIP"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER"
+                    }
+                },
+                "AUG A2": {
+                    "Image": "AUG A2",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "MAGNIFIED A": "MAGNIFIED A",
+                        "MAGNIFIED B": "MAGNIFIED B",
+                        "MAGNIFIED C": "MAGNIFIED C",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "BarrelAttachments": {
+                        "COMPENSATOR": "COMPENSATOR",
+                        "FLASH HIDER": "FLASH HIDER",
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER"
+                    }
+                },
+                "G8A1": {
+                    "Image": "G8A1",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "MAGNIFIED A": "MAGNIFIED A",
+                        "MAGNIFIED B": "MAGNIFIED B",
+                        "MAGNIFIED C": "MAGNIFIED C",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "BarrelAttachments": {
+                        "COMPENSATOR": "COMPENSATOR",
+                        "FLASH HIDER": "FLASH HIDER",
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR"
+                    },
+                    "GripAttachments": {
+                        "ANGLED GRIP": "ANGLED GRIP",
+                        "HORIZONTAL GRIP": "HORIZONTAL GRIP",
+                        "VERTICAL GRIP": "VERTICAL GRIP"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER"
+                    }
+                }
             },
             "SecondaryWeapons": {
                 "P12": {
