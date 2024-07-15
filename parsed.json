@@ -828,8 +828,26 @@
                 }
             },
             "SecondaryWeapons": {
-                "5.7 USG": "5.7 USG",
-                "M54 MEUSOC": "M54 MEUSOC"
+                "5.7 USG": {
+                    "Image": "5.7 USG",
+                    "BarrelAttachments": {
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER"
+                    }
+                },
+                "M54 MEUSOC": {
+                    "Image": "M54 MEUSOC",
+                    "BarrelAttachments": {
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER"
+                    }
+                }
             }
         },
         "Twitch": {
