@@ -60,7 +60,11 @@
         "SG-CQB": "Weapons/PrimaryWeapons/SG-CQB.png",
         "LMG E": "Weapons/PrimaryWeapons/LMG_E.png",
         "M762": "Weapons/PrimaryWeapons/M762.png",
-        "RG15": "Weapons/SecondaryWeapons/RG15.png"
+        "RG15": "Weapons/SecondaryWeapons/RG15.png",
+        "ACS12": "Weapons/PrimaryWeapons/ACS12.webp",
+        "Mx4 Storm": "Weapons/PrimaryWeapons/Mx4_Storm.webp",
+        "Bailiff 410": "Weapons/SecondaryWeapons/Bailiff_410.webp",
+        "Keratos .357": "Weapons/SecondaryWeapons/Keratos_.357.webp"
     },
     "Attackers": {
         "Icons": [
@@ -1072,7 +1076,7 @@
             },
             "PrimaryWeapons": {
                 "ACS12": {
-                    "Image": "Weapons/PrimaryWeapons/ACS12.webp",
+                    "Image": "ACS12",
                     "GripAttachments": {
                         "ANGLED GRIP": "ANGLED GRIP",
                         "VERTICAL GRIP": "VERTICAL GRIP"
@@ -1098,7 +1102,7 @@
                     }
                 },
                 "Mx4 Storm": {
-                    "Image": "Weapons/PrimaryWeapons/Mx4_Storm.webp",
+                    "Image": "Mx4 Storm",
                     "BarrelAttachments": {
                         "COMPENSATOR": "COMPENSATOR",
                         "EXTENDED BARREL": "EXTENDED BARREL",
@@ -1129,8 +1133,22 @@
                 }
             },
             "SecondaryWeapons": {
-                "Bailiff 410": "Weapons/SecondaryWeapons/Bailiff_410.webp",
-                "Keratos .357": "Weapons/SecondaryWeapons/Keratos_.357.webp"
+                "Bailiff 410": {
+                    "Image": "Bailiff 410",
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER"
+                    }
+                },
+                "Keratos .357": {
+                    "Image": "Keratos .357",
+                    "BarrelAttachments": {
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER"
+                    }
+                }
             }
         }
     }
