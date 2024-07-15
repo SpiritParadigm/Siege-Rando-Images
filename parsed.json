@@ -42,7 +42,11 @@
         "M54 MEUSOC": "Weapons/SecondaryWeapons/M54_MEUSOC.png",
         "LFP589": "Weapons/SecondaryWeapons/LFP589.png",
         "P9": "Weapons/SecondaryWeapons/P9.png",
-        "MK1 9mm": "Weapons/SecondaryWeapons/MK1_9mm.png"
+        "MK1 9mm": "Weapons/SecondaryWeapons/MK1_9mm.png",
+        "C8-SFW": "Weapons/PrimaryWeapons/C8-SFW.png",
+        "CAMRS": "Weapons/PrimaryWeapons/CAMRS.png",
+        "6P41": "Weapons/PrimaryWeapons/6P41.png",
+        "AK-12": "Weapons/PrimaryWeapons/AK-12.png",
     },
     "Attackers": {
         "Icons": [
@@ -175,7 +179,7 @@
             },
             "PrimaryWeapons": {
                 "C8-SFW": {
-                    "Image": "Weapons/PrimaryWeapons/C8-SFW.png",
+                    "Image": "C8-SFW",
                     "BarrelAttachments": {
                         "COMPENSATOR": "COMPENSATOR",
                         "EXTENDED BARREL": "EXTENDED BARREL",
@@ -204,7 +208,7 @@
                     }
                 },
                 "CAMRS": {
-                    "Images": "Weapons/PrimaryWeapons/CAMRS.png",
+                    "Images": "CAMRS",
                     "SightAttachments": {
                         "HOLO A": "HOLO A",
                         "HOLO B": "HOLO B",
@@ -255,8 +259,39 @@
                 "Smoke Grenade": "Smoke Grenade"
             },
             "PrimaryWeapons": {
-                "6P41": "Weapons/PrimaryWeapons/6P41.png",
-                "AK-12": "Weapons/PrimaryWeapons/AK-12.png",
+                "6P41": {
+                    "Images": "6P41",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "MAGNIFIED A": "MAGNIFIED A",
+                        "MAGNIFIED B": "MAGNIFIED B",
+                        "MAGNIFIED C": "MAGNIFIED C",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "BarrelAttachments": {
+                        "COMPENSATOR": "COMPENSATOR",
+                        "FLASH HIDER": "FLASH HIDER",
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR"
+                    },
+                    "GripAttachments": {
+                        "ANGLED GRIP": "ANGLED GRIP",
+                        "HORIZONTAL GRIP": "HORIZONTAL GRIP",
+                        "VERTICAL GRIP": "VERTICAL GRIP"
+                    }
+                },
+                "AK-12": {
+                    "Images": "AK-12"
+                },
                 "Ballistic Shield": "Weapons/PrimaryWeapons/Ballistic Shield.png"
             },
             "SecondaryWeapons": {
