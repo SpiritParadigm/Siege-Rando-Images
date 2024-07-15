@@ -563,8 +563,22 @@
                 "LE ROC SHIELD": "Weapons/PrimaryWeapons/LE_ROC_SHIELD.png"
             },
             "SecondaryWeapons": {
-                "LFP589": "LFP589",
-                "P9": "P9"
+                "LFP589": {
+                    "Images": "LFP589",
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER"
+                    }
+                },
+                "P9": {
+                    "Images": "P9",
+                    "BarrelAttachments": {
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER"
+                    }
+                }
             }
         },
         "Sledge": {
