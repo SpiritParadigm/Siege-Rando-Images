@@ -41,7 +41,8 @@
         "5.7 USG": "Weapons/SecondaryWeapons/5.7 USG.png",
         "M54 MEUSOC": "Weapons/SecondaryWeapons/M54_MEUSOC.png",
         "LFP589": "Weapons/SecondaryWeapons/LFP589.png",
-        "P9": "Weapons/SecondaryWeapons/P9.png"
+        "P9": "Weapons/SecondaryWeapons/P9.png",
+        "MK1 9mm": "Weapons/SecondaryWeapons/MK1_9mm.png"
     },
     "Attackers": {
         "Icons": [
@@ -221,12 +222,28 @@
                         "REFLEX C": "REFLEX C",
                         "TELESCOPIC A": "TELESCOPIC A",
                         "TELESCOPIC B": "TELESCOPIC B"
+                    },
+                    "BarrelAttachments": {
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER"
                     }
                 }
             },
             "SecondaryWeapons": {
                 "Gonne 6": "Gonne 6",
-                "MK1 9mm": "Weapons/SecondaryWeapons/MK1_9mm.png"
+                "MK1 9mm": {
+                    "Image": "MK1 9mm",
+                    "BarrelAttachments": {
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER"
+                    }
+                }
             }
         },
         "Fuze": {
