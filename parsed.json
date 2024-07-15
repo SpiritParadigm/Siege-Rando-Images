@@ -151,7 +151,14 @@
                 "G52-Tactical Shield": "Weapons/PrimaryWeapons/G52-Tactical_Shield.png"
             },
             "SecondaryWeapons": {
-                "P12": "P12"
+                "P12": "P12",
+                "BarrelAttachments": {
+                    "MUZZLE BRAKE": "MUZZLE BRAKE",
+                    "SUPPRESSOR": "SUPPRESSOR"
+                },
+                "UnderBarrelAttachments": {
+                    "LASER": "LASER"
+                }
             }
         },
         "Buck": {
