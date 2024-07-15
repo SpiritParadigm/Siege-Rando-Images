@@ -1046,7 +1046,14 @@
             },
             "SecondaryWeapons": {
                 "RG15": {
-                    "Image": "RG15"
+                    "Image": "RG15",
+                    "BarrelAttachments": {
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER"
+                    }
                 }
             }
         }
