@@ -54,7 +54,10 @@
         "G8A1": "Weapons/PrimaryWeapons/G8A1.png",
         "AR33": "Weapons/PrimaryWeapons/AR33.png",
         "556XI": "Weapons/PrimaryWeapons/556XI.png",
-        "M1014": "Weapons/PrimaryWeapons/M1014.png"
+        "M1014": "Weapons/PrimaryWeapons/M1014.png",
+        "417": "Weapons/PrimaryWeapons/417.png",
+        "F2": "Weapons/PrimaryWeapons/F2.png",
+        "SG-CQB": "Weapons/PrimaryWeapons/SG-CQB.png"
     },
     "Attackers": {
         "Icons": [
@@ -858,9 +861,71 @@
                 "Smoke Grenade": "Smoke Grenade"
             },
             "PrimaryWeapons": {
-                "417": "Weapons/PrimaryWeapons/417.png",
-                "F2": "Weapons/PrimaryWeapons/F2.png",
-                "SG-CQB": "Weapons/PrimaryWeapons/SG-CQB.png"
+                "417": {
+                    "Images": "417",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "MAGNIFIED A": "MAGNIFIED A",
+                        "MAGNIFIED B": "MAGNIFIED B",
+                        "MAGNIFIED C": "MAGNIFIED C",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C",
+                        "TELESCOPIC A": "TELESCOPIC A",
+                        "TELESCOPIC B": "TELESCOPIC B"
+                    },
+                    "BarrelAttachments": {
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR"
+                    },
+                    "GripAttachments": {
+                        "ANGLED GRIP": "ANGLED GRIP",
+                        "HORIZONTAL GRIP": "HORIZONTAL GRIP",
+                        "VERTICAL GRIP": "VERTICAL GRIP"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER"
+                    }
+                },
+                "F2": {
+                    "Images": "F2",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "MAGNIFIED A": "MAGNIFIED A",
+                        "MAGNIFIED B": "MAGNIFIED B",
+                        "MAGNIFIED C": "MAGNIFIED C",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "BarrelAttachments": {
+                        "COMPENSATOR": "COMPENSATOR",
+                        "EXTENDED BARREL": "EXTENDED BARREL",
+                        "FLASH HIDER": "FLASH HIDER",
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER"
+                    }
+                },
+                "SG-CQB": {
+                    "Images": "SG-CQB"
+                }
             },
             "SecondaryWeapons": {
                 "LFP589": "LFP589",
