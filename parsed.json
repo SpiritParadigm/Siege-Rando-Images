@@ -36,6 +36,7 @@
         "P12": "Weapons/SecondaryWeapons/P12.png",
         "Impact EMP": "Equipment/Impact EMP.png",
         "Stun Grenade": "Equipment/Stun Grenade.png",
+        "Proximity Alarm": "Equipment/Proximity Alarm.png",
         "L85A2": "Weapons/PrimaryWeapons/L85A2.png",
         "M590A1": "Weapons/PrimaryWeapons/M590A1.png",
         "P226 MK 25": "Weapons/SecondaryWeapons/P226_MK_25.png",
@@ -1073,7 +1074,7 @@
             "Image": "OPImages/Alibi.webp",
             "Equipment": {
                 "Observation Blocker": "Equipment/Observation_Blocker.webp",
-                "Proximity Alarm 3": "Equipment/Proximity_Alarm_3.webp"
+                "Proximity Alarm": "Equipment/Proximity Alarm.png"
             },
             "PrimaryWeapons": {
                 "ACS12": {
