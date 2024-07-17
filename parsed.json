@@ -980,7 +980,7 @@
             }
         },
         "Zofia": {
-            "Icon": "OPIcons/zofia_icon.png",
+            "Icon": "OPIcons/Zofia_icon.png",
             "Image": "OPImages/Zofia.png",
             "Equipment": {
                 "Breach Charge": "Breach Charge",
