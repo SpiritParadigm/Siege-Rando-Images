@@ -274,6 +274,9 @@
                 }
             }
         },
+        "Finka": {
+            "Icon": "OPIcons/Finka_Icon.png"
+        },
         "Fuze": {
             "Icon": "OPIcons/Fuze_Icon.png",
             "Image": "OPImages/Fuze.png",
