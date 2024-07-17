@@ -168,6 +168,9 @@
                 }
             }
         },
+        "Blackbeard": {
+            "Icon": "OPIcons/Blackbeard_Icon.png"
+        },
         "Blitz": {
             "Icon": "OPIcons/Blitz_Icon.png",
             "Image": "OPImages/Blitz.png",
