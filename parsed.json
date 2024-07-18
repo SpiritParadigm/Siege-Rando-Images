@@ -1207,6 +1207,9 @@
                     }
                 }
             }
+        },
+        "Clash": {
+            "Icon": "OPIcons/KYSClash_Icon.png"
         }
     }
 }
