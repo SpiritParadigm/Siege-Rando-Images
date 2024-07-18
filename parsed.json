@@ -285,9 +285,18 @@
         },
         "Capitao": {
             "Icon": "OPIcons/Capitao_Icon.png"
-        }
+        },
+        "Deimos": {
+            "Icon": "OPIcons/Deimos_Icon.png"
+        },
+        "Dokkaebi": {
+            "Icon": "OPIcons/Dokkaebi_Icon.png"
+        },
         "Finka": {
             "Icon": "OPIcons/Finka_Icon.png"
+        },
+        "Flores": {
+            "Icon": "OPIcons/Flores_Icon.png"
         },
         "Fuze": {
             "Icon": "OPIcons/Fuze_Icon.png",
@@ -466,6 +475,15 @@
                     }
                 }
             }
+        },
+        "Gridlock": {
+            "Icon": "OPIcons/Gridlock_Icon.png"
+        },
+        "Grim": {
+            "Icon": "OPIcons/Grim_Icon.png"
+        },
+        "Iana": {
+            "Icon": "OPIcons/Iana_Icon.png"
         },
         "IQ": {
             "Icon": "OPIcons/IQ_Icon.png",
