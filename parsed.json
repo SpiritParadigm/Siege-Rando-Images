@@ -1125,7 +1125,7 @@
             "GroupIcons/Defenders_Icon.svg"
         ],
         "Alibi": {
-            "Icon": "OPIcons/Alibi_Icon.webp",
+            "Icon": "OPIcons/Alibi_Icon.png",
             "Image": "OPImages/Alibi.webp",
             "Equipment": {
                 "Observation Blocker": "Equipment/Observation_Blocker.webp",
