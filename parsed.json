@@ -482,6 +482,9 @@
         "Grim": {
             "Icon": "OPIcons/Grim_Icon.png"
         },
+        "Hibana": {
+            "Icon": "OPIcons/Hibana_Icon.png"
+        },
         "Iana": {
             "Icon": "OPIcons/Iana_Icon.png"
         },
@@ -609,6 +612,12 @@
         "Kali": {
             "Icon": "OPIcons/Kali_Icon.png"
         },
+        "Lion": {
+            "Icon": "OPIcons/Lion_Icon.png"
+        },
+        "Maverick": {
+            "Icon": "OPIcons/Maverick_Icon.png"
+        },
         "Montagne": {
             "Icon": "OPIcons/Montagne_Icon.png",
             "Image": "OPImages/Montagne.png",
@@ -638,6 +647,9 @@
                     }
                 }
             }
+        },
+        "Nokk": {
+            "Icon": "OPIcons/Nokk_Icon.png"
         },
         "Sledge": {
             "Icon": "OPIcons/Sledge_Icon.png",
