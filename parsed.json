@@ -76,7 +76,10 @@
         ],
         "Ace": {
             "Icon": "OPIcons/Ace_Icon.png"
-        }
+        },
+        "Amaru": {
+            "Icon": "OPIcons/Amaru_Icon.png"
+        },
         "Ash": {
             "Icon": "OPIcons/Ash_Icon.png",
             "Image": "OPImages/Ash.png",
