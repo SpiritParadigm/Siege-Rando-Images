@@ -283,6 +283,9 @@
                 }
             }
         },
+        "Capitao": {
+            "Icon": "OPIcons/Capitao_Icon.png"
+        }
         "Finka": {
             "Icon": "OPIcons/Finka_Icon.png"
         },
