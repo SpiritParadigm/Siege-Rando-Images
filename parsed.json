@@ -200,6 +200,9 @@
                 }
             }
         },
+        "Brava": {
+            "Icon": "OPIcons/Brava_Icon.png"
+        },
         "Buck": {
             "Icon": "OPIcons/Buck_Icon.png",
             "Image": "OPImages/Buck.png",
