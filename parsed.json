@@ -603,6 +603,12 @@
                 }
             }
         },
+        "Jackal": {
+            "Icon": "OPIcons/Jackal_Icon.png"
+        },
+        "Kali": {
+            "Icon": "OPIcons/Kali_Icon.png"
+        },
         "Montagne": {
             "Icon": "OPIcons/Montagne_Icon.png",
             "Image": "OPImages/Montagne.png",
