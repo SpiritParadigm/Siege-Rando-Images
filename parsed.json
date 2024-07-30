@@ -75,14 +75,16 @@
             "GroupIcons/Attackers_Icon.svg"
         ],
         "Ace": {
-            "Icon": "OPIcons/Ace_Icon.png"
+            "Icon": "OPIcons/Ace_Icon.png",
+            "Image": "OPImages/Ace.webp"
         },
         "Amaru": {
-            "Icon": "OPIcons/Amaru_Icon.png"
+            "Icon": "OPIcons/Amaru_Icon.png",
+            "Image": "OPImages/Amaru.webp"
         },
         "Ash": {
             "Icon": "OPIcons/Ash_Icon.png",
-            "Image": "OPImages/Ash.png",
+            "Image": "OPImages/Ash.webp",
             "Equipment": {
                 "Breach Charge": "Breach Charge",
                 "Claymore": "Claymore"
@@ -181,7 +183,8 @@
             }
         },
         "Blackbeard": {
-            "Icon": "OPIcons/Blackbeard_Icon.png"
+            "Icon": "OPIcons/Blackbeard_Icon.png",
+            "Image": "OPIcons/Blackbeard.webp"
         },
         "Blitz": {
             "Icon": "OPIcons/Blitz_Icon.png",
@@ -314,7 +317,7 @@
         },
         "Fuze": {
             "Icon": "OPIcons/Fuze_Icon.png",
-            "Image": "OPImages/Fuze.png",
+            "Image": "OPImages/Fuze.webp",
             "Equipment": {
                 "Breach Charge": "Breach Charge",
                 "Hard Breach Charge": "Hard Breach Charge",
@@ -422,7 +425,7 @@
         },
         "Glaz": {
             "Icon": "OPIcons/Glaz_Icon.png",
-            "Image": "OPImages/Glaz.png",
+            "Image": "OPImages/Glaz.webp",
             "Equipment": {
                 "Claymore": "Claymore",
                 "Frag": "Frag",
@@ -505,20 +508,24 @@
             }
         },
         "Gridlock": {
-            "Icon": "OPIcons/Gridlock_Icon.png"
+            "Icon": "OPIcons/Gridlock_Icon.png",
+            "Image": "OPImages/Gridlock.webp"
         },
         "Grim": {
-            "Icon": "OPIcons/Grim_Icon.png"
+            "Icon": "OPIcons/Grim_Icon.png",
+            "Image": "OPImages/Grim.webp"
         },
         "Hibana": {
-            "Icon": "OPIcons/Hibana_Icon.png"
+            "Icon": "OPIcons/Hibana_Icon.png",
+            "Image": "OPImages/Hibana.webp"
         },
         "Iana": {
-            "Icon": "OPIcons/Iana_Icon.png"
+            "Icon": "OPIcons/Iana_Icon.png",
+            "Image": "OPImages/Iana.webp"
         },
         "IQ": {
             "Icon": "OPIcons/IQ_Icon.png",
-            "Image": "OPImages/IQ.png",
+            "Image": "OPImages/IQ.webp",
             "Equipment": {
                 "Breach Charge": "Breach Charge",
                 "Claymore": "Claymore",
@@ -643,20 +650,24 @@
             }
         },
         "Jackal": {
-            "Icon": "OPIcons/Jackal_Icon.png"
+            "Icon": "OPIcons/Jackal_Icon.png",
+            "Image": "OPImages/Jackal.webp"
         },
         "Kali": {
-            "Icon": "OPIcons/Kali_Icon.png"
+            "Icon": "OPIcons/Kali_Icon.png",
+            "Image": "OPImages/Kali.webp"
         },
         "Lion": {
-            "Icon": "OPIcons/Lion_Icon.png"
+            "Icon": "OPIcons/Lion_Icon.png",
+            "Image": "OPImages/Lion.webp"
         },
         "Maverick": {
-            "Icon": "OPIcons/Maverick_Icon.png"
+            "Icon": "OPIcons/Maverick_Icon.png",
+            "Image": "OPImages/Maverick.webp"
         },
         "Montagne": {
             "Icon": "OPIcons/Montagne_Icon.png",
-            "Image": "OPImages/Montagne.png",
+            "Image": "OPImages/Montagne.webp",
             "Equipment": {
                 "Hard Breach Charge": "Hard Breach Charge",
                 "Impact EMP": "Impact EMP",
@@ -688,11 +699,12 @@
             }
         },
         "Nokk": {
-            "Icon": "OPIcons/Nokk_Icon.png"
+            "Icon": "OPIcons/Nokk_Icon.png",
+            "Image": "OPImages/Nokk.webp"
         },
         "Sledge": {
             "Icon": "OPIcons/Sledge_Icon.png",
-            "Image": "OPImages/Sledge.png",
+            "Image": "OPImages/Sledge.webp",
             "Equipment": {
                 "Frag": "Frag",
                 "Impact EMP": "Impact EMP",
@@ -772,7 +784,7 @@
         },
         "Thatcher": {
             "Icon": "OPIcons/Thatcher_Icon.png",
-            "Image": "OPImages/Thatcher.png",
+            "Image": "OPImages/Thatcher.webp",
             "Equipment": {
                 "Breach Charge": "Breach Charge",
                 "Claymore": "Claymore"
@@ -886,7 +898,7 @@
         },
         "Thermite": {
             "Icon": "OPIcons/Thermite_Icon.png",
-            "Image": "OPImages/Thermite.png",
+            "Image": "OPImages/Thermite.webp",
             "Equipment": {
                 "Smoke Grenade": "Smoke Grenade",
                 "Stun Grenade": "Stun Grenade"
@@ -977,7 +989,7 @@
         },
         "Twitch": {
             "Icon": "OPIcons/Twitch_Icon.png",
-            "Image": "OPImages/Twitch.png",
+            "Image": "OPImages/Twitch.webp",
             "Equipment": {
                 "Claymore": "Claymore",
                 "Smoke Grenade": "Smoke Grenade"
@@ -1098,7 +1110,7 @@
         },
         "Zofia": {
             "Icon": "OPIcons/Zofia_Icon.png",
-            "Image": "OPImages/Zofia.png",
+            "Image": "OPImages/Zofia.webp",
             "Equipment": {
                 "Breach Charge": "Breach Charge",
                 "Claymore": "Claymore"
@@ -1287,7 +1299,144 @@
             }
         },
         "Clash": {
-            "Icon": "OPIcons/KYSClash_Icon.png"
-        }
+            "Icon": "OPIcons/KYSClash_Icon.png",
+            "Image": "OPImages/Clash.webp"
+        },
+        "Mute": {
+            "Icon": "OPIcons/Mute_Icon.png",
+            "Image": "OPImages/Mute.webp"
+        },
+        "Smoke": {
+            "Icon": "OPIcons/Smoke_Icon.png",
+            "Image": "OPImages/Smoke.webp"
+        },
+        "Castle": {
+            "Icon": "OPIcons/Castle_Icon.png",
+            "Image": "OPImages/Castle.webp"
+        },
+        "Pulse": {
+            "Icon": "OPIcons/Pulse_Icon.png",
+            "Image": "OPImages/Pulse.webp"
+        },
+        "Doc": {
+            "Icon": "OPIcons/Doc_Icon.png",
+            "Image": "OPImages/Doc.webp"
+        },
+        "Rook": {
+            "Icon": "OPIcons/Rook_Icon.png",
+            "Image": "OPImages/Rook.webp"
+        },
+        "Kapkan": {
+            "Icon": "OPIcons/Kapkan_Icon.png",
+            "Image": "OPImages/Kapkan.webp"
+        },
+        "Tachanka": {
+            "Icon": "OPIcons/Tachanka_Icon.png",
+            "Image": "OPImages/Tachanka.webp"
+        },
+        "Jager": {
+            "Icon": "OPIcons/Jager_Icon.png",
+            "Image": "OPImages/Jager.webp"
+        },
+        "Bandit": {
+            "Icon": "OPIcons/Bandit_Icon.png",
+            "Image": "OPImages/Bandit.webp"
+        },
+        "Frost": {
+            "Icon": "OPIcons/Frost_Icon.png",
+            "Image": "OPImages/Frost.webp"
+        },
+        "Valkyrie": {
+            "Icon": "OPIcons/Valkyrie_Icon.png",
+            "Image": "OPImages/Valkyrie.webp"
+        },
+        "Caveira": {
+            "Icon": "OPIcons/Caveira_Icon.png",
+            "Image": "OPImages/Caveira.webp"
+        },
+        "Echo": {
+            "Icon": "OPIcons/Echo_Icon.png",
+            "Image": "OPImages/Echo.webp"
+        },
+        "Mira": {
+            "Icon": "OPIcons/Mira_Icon.png",
+            "Image": "OPImages/Mira.webp"
+        },
+        "Lesion": {
+            "Icon": "OPIcons/Lesion_Icon.png",
+            "Image": "OPImages/Lesion.webp"
+        },
+        "Ela": {
+            "Icon": "OPIcons/Ela_Icon.png",
+            "Image": "OPImages/Ela.webp"
+        },
+        "Vigil": {
+            "Icon": "OPIcons/Vigil_Icon.png",
+            "Image": "OPImages/Vigil.webp"
+        },
+        "Maestro": {
+            "Icon": "OPIcons/Maestro_Icon.png",
+            "Image": "OPImages/Maestro.webp"
+        },
+        "Kaid": {
+            "Icon": "OPIcons/Kaid_Icon.png",
+            "Image": "OPImages/Kaid.webp"
+        },
+        "Mozzie": {
+            "Icon": "OPIcons/Mozzie_Icon.png",
+            "Image": "OPImages/Mozzie.webp"
+        },
+        "Warden": {
+            "Icon": "OPIcons/Warden_Icon.png",
+            "Image": "OPImages/Warden.webp"
+        },
+        "Goyo": {
+            "Icon": "OPIcons/Goyo_Icon.png",
+            "Image": "OPImages/Goyo.webp"
+        },
+        "Wamai": {
+            "Icon": "OPIcons/Wamai_Icon.png",
+            "Image": "OPImages/Wamai.webp"
+        },
+        "Oryx": {
+            "Icon": "OPIcons/Oryx_Icon.png",
+            "Image": "OPImages/Oryx.webp"
+        },
+        "Melusi": {
+            "Icon": "OPIcons/Melusi_Icon.png",
+            "Image": "OPImages/Melusi.webp"
+        },
+        "Aruni": {
+            "Icon": "OPIcons/Aruni_Icon.png",
+            "Image": "OPImages/Aruni.webp"
+        },
+        "Thunderbird": {
+            "Icon": "OPIcons/Thunderbird_Icon.png",
+            "Image": "OPImages/Thunderbird.webp"
+        },
+        "Thorn": {
+            "Icon": "OPIcons/Thorn_Icon.png",
+            "Image": "OPImages/Thorn.webp"
+        },
+        "Azami": {
+            "Icon": "OPIcons/Azami_Icon.png",
+            "Image": "OPImages/Azami.webp"
+        },
+        "Solis": {
+            "Icon": "OPIcons/Solis_Icon.png",
+            "Image": "OPImages/Solis.webp"
+        },
+        "Fenrir": {
+            "Icon": "OPIcons/Fenrir_Icon.png",
+            "Image": "OPImages/Fenrir.webp"
+        },
+        "Tubarao": {
+            "Icon": "OPIcons/Tubarao_Icon.png",
+            "Image": "OPImages/Tubarao.webp"
+        },
+        "Sentry": {
+            "Icon": "OPIcons/Sentry_Icon.png",
+            "Image": "OPImages/Sentry.webp"
+        },
     }
 }
