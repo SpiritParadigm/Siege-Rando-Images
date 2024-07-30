@@ -12,7 +12,7 @@
         "HOLO B": "Attachments/SightAttachments/HOLO_B.png",
         "HOLO C": "Attachments/SightAttachments/HOLO_C.png",
         "HOLO D": "Attachments/SightAttachments/HOLO_D.png",
-        "IRON SIGHT": "Attachments/SightAttachments/IRON SIGHT.png",
+        "IRON SIGHT": "Attachments/SightAttachments/IRON_SIGHT.png",
         "MAGNIFIED A": "Attachments/SightAttachments/MAGNIFIED_A.png",
         "MAGNIFIED B": "Attachments/SightAttachments/MAGNIFIED_B.png",
         "MAGNIFIED C": "Attachments/SightAttachments/MAGNIFIED_C.png",
@@ -25,7 +25,7 @@
         "REFLEX B": "Attachments/SightAttachments/REFLEX_B.png",
         "REFLEX C": "Attachments/SightAttachments/REFLEX_C.png",
         "LASER": "Attachments/UnderBarrelAttachments/LASER.png",
-        "NONE": "Attachments/Shared Attachments/NONE.png",
+        "None": "Attachments/SharedAttachments/None.png",
         "Breach Charge": "Equipment/Breach_Charge.png",
         "Hard Breach Charge": "Equipment/Hard Breach Charge.png",
         "Smoke Grenade": "Equipment/Smoke Grenade.png",
@@ -95,7 +95,8 @@
                         "EXTENDED BARREL": "EXTENDED BARREL",
                         "FLASH HIDER": "FLASH HIDER",
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "GripAttachments": {
                         "ANGLED GRIP": "ANGLED GRIP",
@@ -119,7 +120,8 @@
                         "REFLEX C": "REFLEX C"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 },
                 "R4-C": {
@@ -129,7 +131,8 @@
                         "EXTENDED BARREL": "EXTENDED BARREL",
                         "FLASH HIDER": "FLASH HIDER",
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "GripAttachments": {
                         "ANGLED GRIP": "ANGLED GRIP",
@@ -153,7 +156,8 @@
                         "REFLEX C": "REFLEX C"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 }
             },
@@ -162,14 +166,16 @@
                     "Image": "5.7 USG",
                     "BarrelAttachments": {
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     }
                 },
                 "M45 MEUSOC": {
                     "Image": "M54 MEUSOC",
                     "BarrelAttachments": {
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     }
                 }
             }
@@ -192,10 +198,12 @@
                     "Image": "P12",
                     "BarrelAttachments": {
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 }
             }
@@ -218,7 +226,8 @@
                         "EXTENDED BARREL": "EXTENDED BARREL",
                         "FLASH HIDER": "FLASH HIDER",
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "SightAttachments": {
                         "HOLO A": "HOLO A",
@@ -237,7 +246,8 @@
                         "REFLEX C": "REFLEX C"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 },
                 "CAMRS": {
@@ -262,10 +272,12 @@
                     },
                     "BarrelAttachments": {
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 }
             },
@@ -275,10 +287,12 @@
                     "Image": "MK1 9mm",
                     "BarrelAttachments": {
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 }
             }
@@ -329,7 +343,8 @@
                         "COMPENSATOR": "COMPENSATOR",
                         "FLASH HIDER": "FLASH HIDER",
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "GripAttachments": {
                         "ANGLED GRIP": "ANGLED GRIP",
@@ -337,7 +352,8 @@
                         "VERTICAL GRIP": "VERTICAL GRIP"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 },
                 "AK-12": {
@@ -362,7 +378,8 @@
                         "COMPENSATOR": "COMPENSATOR",
                         "FLASH HIDER": "FLASH HIDER",
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "GripAttachments": {
                         "ANGLED GRIP": "ANGLED GRIP",
@@ -370,7 +387,8 @@
                         "VERTICAL GRIP": "VERTICAL GRIP"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 },
                 "Ballistic Shield": "Weapons/PrimaryWeapons/Ballistic Shield.png"
@@ -380,20 +398,24 @@
                     "Image": "GSH-18",
                     "BarrelAttachments": {
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 },
                 "PMM": {
                     "Images": "PMM",
                     "BarrelAttachments": {
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 }
             }
@@ -424,7 +446,8 @@
                     },
                     "BarrelAttachments": {
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "GripAttachments": {
                         "ANGLED GRIP": "ANGLED GRIP",
@@ -432,7 +455,8 @@
                         "VERTICAL GRIP": "VERTICAL GRIP"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 }
             },
@@ -457,10 +481,12 @@
                         "EXTENDED BARREL": "EXTENDED BARREL",
                         "FLASH HIDER": "FLASH HIDER",
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 },
                 "Gonne 6": "Gonne 6",
@@ -468,10 +494,12 @@
                     "Images": "PMM",
                     "BarrelAttachments": {
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 }
             }
@@ -520,7 +548,8 @@
                         "EXTENDED BARREL": "EXTENDED BARREL",
                         "FLASH HIDER": "FLASH HIDER",
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "GripAttachments": {
                         "ANGLED GRIP": "ANGLED GRIP",
@@ -528,7 +557,8 @@
                         "VERTICAL GRIP": "VERTICAL GRIP"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 },
                 "AUG A2": {
@@ -553,10 +583,12 @@
                         "COMPENSATOR": "COMPENSATOR",
                         "FLASH HIDER": "FLASH HIDER",
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 },
                 "G8A1": {
@@ -581,7 +613,8 @@
                         "COMPENSATOR": "COMPENSATOR",
                         "FLASH HIDER": "FLASH HIDER",
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "GripAttachments": {
                         "ANGLED GRIP": "ANGLED GRIP",
@@ -589,7 +622,8 @@
                         "VERTICAL GRIP": "VERTICAL GRIP"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 }
             },
@@ -598,10 +632,12 @@
                     "Image": "P12",
                     "BarrelAttachments": {
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 }
             }
@@ -633,17 +669,20 @@
                 "LFP589": {
                     "Images": "LFP589",
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 },
                 "P9": {
                     "Images": "P9",
                     "BarrelAttachments": {
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 }
             }
@@ -682,7 +721,8 @@
                         "COMPENSATOR": "COMPENSATOR",
                         "FLASH HIDER": "FLASH HIDER",
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "GripAttachments": {
                         "ANGLED GRIP": "ANGLED GRIP",
@@ -690,7 +730,8 @@
                         "VERTICAL GRIP": "VERTICAL GRIP"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 },
                 "M590A1": {
@@ -709,7 +750,8 @@
                         "REFLEX C": "REFLEX C"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 }
             },
@@ -718,10 +760,12 @@
                     "Image": "P226 MK 25",
                     "BarrelAttachments": {
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 }
             }
@@ -756,7 +800,8 @@
                         "COMPENSATOR": "COMPENSATOR",
                         "FLASH HIDER": "FLASH HIDER",
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "GripAttachments": {
                         "ANGLED GRIP": "ANGLED GRIP",
@@ -764,7 +809,8 @@
                         "VERTICAL GRIP": "VERTICAL GRIP"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 },
                 "L85A2": {
@@ -789,7 +835,8 @@
                         "COMPENSATOR": "COMPENSATOR",
                         "FLASH HIDER": "FLASH HIDER",
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "GripAttachments": {
                         "ANGLED GRIP": "ANGLED GRIP",
@@ -797,7 +844,8 @@
                         "VERTICAL GRIP": "VERTICAL GRIP"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 },
                 "M590A1": {
@@ -816,7 +864,8 @@
                         "REFLEX C": "REFLEX C"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 }
             },
@@ -825,10 +874,12 @@
                     "Image": "P226 MK 25",
                     "BarrelAttachments": {
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 }
             }
@@ -863,7 +914,8 @@
                         "COMPENSATOR": "COMPENSATOR",
                         "FLASH HIDER": "FLASH HIDER",
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "GripAttachments": {
                         "ANGLED GRIP": "ANGLED GRIP",
@@ -871,7 +923,8 @@
                         "VERTICAL GRIP": "VERTICAL GRIP"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 },
                 "M1014": {
@@ -890,7 +943,8 @@
                         "REFLEX C": "REFLEX C"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 }
             },
@@ -899,20 +953,24 @@
                     "Image": "5.7 USG",
                     "BarrelAttachments": {
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 },
                 "M54 MEUSOC": {
                     "Image": "M54 MEUSOC",
                     "BarrelAttachments": {
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 }
             }
@@ -947,7 +1005,8 @@
                     },
                     "BarrelAttachments": {
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "GripAttachments": {
                         "ANGLED GRIP": "ANGLED GRIP",
@@ -955,7 +1014,8 @@
                         "VERTICAL GRIP": "VERTICAL GRIP"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 },
                 "F2": {
@@ -981,10 +1041,12 @@
                         "EXTENDED BARREL": "EXTENDED BARREL",
                         "FLASH HIDER": "FLASH HIDER",
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 },
                 "SG-CQB": {
@@ -1007,7 +1069,8 @@
                         "VERTICAL GRIP": "VERTICAL GRIP"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 }
             },
@@ -1015,23 +1078,26 @@
                 "LFP589": {
                     "Image": "LFP589",
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 },
                 "P9": {
                     "Image": "P9",
                     "BarrelAttachments": {
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 }
             }
         },
         "Zofia": {
-            "Icon": "OPIcons/Zofia_icon.png",
+            "Icon": "OPIcons/Zofia_Icon.png",
             "Image": "OPImages/Zofia.png",
             "Equipment": {
                 "Breach Charge": "Breach Charge",
@@ -1060,7 +1126,8 @@
                         "COMPENSATOR": "COMPENSATOR",
                         "FLASH HIDER": "FLASH HIDER",
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "GripAttachments": {
                         "ANGLED GRIP": "ANGLED GRIP",
@@ -1068,7 +1135,8 @@
                         "VERTICAL GRIP": "VERTICAL GRIP"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 },
                 "M762": {
@@ -1093,7 +1161,8 @@
                         "COMPENSATOR": "COMPENSATOR",
                         "FLASH HIDER": "FLASH HIDER",
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "GripAttachments": {
                         "ANGLED GRIP": "ANGLED GRIP",
@@ -1101,7 +1170,8 @@
                         "VERTICAL GRIP": "VERTICAL GRIP"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 }
             },
@@ -1110,10 +1180,12 @@
                     "Image": "RG15",
                     "BarrelAttachments": {
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 }
             }
@@ -1125,7 +1197,7 @@
             "GroupIcons/Defenders_Icon.svg"
         ],
         "Alibi": {
-            "Icon": "OPIcons/Alibi_Icon.webp",
+            "Icon": "OPIcons/Alibi_Icon.png",
             "Image": "OPImages/Alibi.webp",
             "Equipment": {
                 "Observation Blocker": "Equipment/Observation_Blocker.webp",
@@ -1155,7 +1227,8 @@
                         "REFLEX C": "REFLEX C"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 },
                 "Mx4 Storm": {
@@ -1165,7 +1238,8 @@
                         "EXTENDED BARREL": "EXTENDED BARREL",
                         "FLASH HIDER": "FLASH HIDER",
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "GripAttachments": {
                         "ANGLED GRIP": "ANGLED GRIP",
@@ -1185,7 +1259,8 @@
                         "REFLEX C": "REFLEX C"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 }
             },
@@ -1193,20 +1268,26 @@
                 "Bailiff 410": {
                     "Image": "Bailiff 410",
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 },
                 "Keratos .357": {
                     "Image": "Keratos .357",
                     "BarrelAttachments": {
                         "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR"
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "UnderBarrelAttachments": {
-                        "LASER": "LASER"
+                        "LASER": "LASER",
+                        "None": "None"
                     }
                 }
             }
+        },
+        "Clash": {
+            "Icon": "OPIcons/KYSClash_Icon.png"
         }
     }
 }
