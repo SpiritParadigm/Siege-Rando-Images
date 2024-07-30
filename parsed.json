@@ -1437,6 +1437,6 @@
         "Sentry": {
             "Icon": "OPIcons/Sentry_Icon.png",
             "Image": "OPImages/Sentry.webp"
-        },
+        }
     }
 }
