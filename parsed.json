@@ -702,6 +702,22 @@
             "Icon": "OPIcons/Nokk_Icon.png",
             "Image": "OPImages/Nokk.webp"
         },
+        "Nomad": {
+            "Icon": "OPIcons/Nomad_Icon.png",
+            "Image": "OPImages/Nomad.webp"
+        },
+        "Osa": {
+            "Icon": "OPIcons/Osa_Icon.png",
+            "Image": "OPImages/Osa.webp"
+        },
+        "Ram": {
+            "Icon": "OPIcons/Ram_Icon.png",
+            "Image": "OPImages/Ram.webp"
+        },
+        "Sens": {
+            "Icon": "OPIcons/Sens_Icon.png",
+            "Image": "OPImages/Sens.webp"
+        },
         "Sledge": {
             "Icon": "OPIcons/Sledge_Icon.png",
             "Image": "OPImages/Sledge.webp",
@@ -781,6 +797,10 @@
                     }
                 }
             }
+        },
+        "Striker": {
+            "Icon": "OPIcons/Striker_Icon.png",
+            "Image": "OPImages/Striker.webp"
         },
         "Thatcher": {
             "Icon": "OPIcons/Thatcher_Icon.png",
@@ -1107,6 +1127,14 @@
                     }
                 }
             }
+        },
+        "Ying": {
+            "Icon": "OPIcons/Ying_Icon.png",
+            "Image": "OPImages/Ying.webp"
+        },
+        "Zero": {
+            "Icon": "OPIcons/Zero_Icon.png",
+            "Image": "OPImages/Zero.webp"
         },
         "Zofia": {
             "Icon": "OPIcons/Zofia_Icon.png",
