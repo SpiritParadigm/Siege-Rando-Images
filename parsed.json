@@ -70,10 +70,7 @@
         "Keratos .357": "Weapons/SecondaryWeapons/Keratos_.357.webp"
     },
     "Attackers": {
-        "Icons": [
-            "GroupIcons/Attackers_Icon_hover.svg",
-            "GroupIcons/Attackers_Icon.svg"
-        ],
+        "Icons": ["GroupIcons/Attackers_Icon_hover.svg", "GroupIcons/Attackers_Icon.svg"],
         "Ace": {
             "Icon": "OPIcons/Ace_Icon.png",
             "Image": "OPImages/Ace.webp"
@@ -212,7 +209,8 @@
             }
         },
         "Brava": {
-            "Icon": "OPIcons/Brava_Icon.png"
+            "Icon": "OPIcons/Brava_Icon.png",
+            "Image": "OPImages/Brava.webp"
         },
         "Buck": {
             "Icon": "OPIcons/Buck_Icon.png",
@@ -301,19 +299,24 @@
             }
         },
         "Capitao": {
-            "Icon": "OPIcons/Capitao_Icon.png"
+            "Icon": "OPIcons/Capitao_Icon.png",
+            "Image": "OPImages/Capitao.webp"
         },
         "Deimos": {
-            "Icon": "OPIcons/Deimos_Icon.png"
+            "Icon": "OPIcons/Deimos_Icon.png",
+            "Image": "OPImages/Deimos.webp"
         },
         "Dokkaebi": {
-            "Icon": "OPIcons/Dokkaebi_Icon.png"
+            "Icon": "OPIcons/Dokkaebi_Icon.png",
+            "Image": "OPImages/Dokkaebi.webp"
         },
         "Finka": {
-            "Icon": "OPIcons/Finka_Icon.png"
+            "Icon": "OPIcons/Finka_Icon.png",
+            "Image": "OPImages/Finka.webp"
         },
         "Flores": {
-            "Icon": "OPIcons/Flores_Icon.png"
+            "Icon": "OPIcons/Flores_Icon.png",
+            "Image": "OPImages/Flores.webp"
         },
         "Fuze": {
             "Icon": "OPIcons/Fuze_Icon.png",
@@ -1232,10 +1235,7 @@
         }
     },
     "Defenders": {
-        "Icons": [
-            "GroupIcons/Defenders_Icon_hover.svg",
-            "GroupIcons/Defenders_Icon.svg"
-        ],
+        "Icons": ["GroupIcons/Defenders_Icon_hover.svg", "GroupIcons/Defenders_Icon.svg"],
         "Alibi": {
             "Icon": "OPIcons/Alibi_Icon.png",
             "Image": "OPImages/Alibi.webp",
