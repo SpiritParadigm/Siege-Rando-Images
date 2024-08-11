@@ -185,7 +185,7 @@
         },
         "Blitz": {
             "Icon": "OPIcons/Blitz_Icon.png",
-            "Image": "OPImages/Blitz.png",
+            "Image": "OPImages/Blitz.webp",
             "Equipment": {
                 "Breach Charge": "Breach Charge",
                 "Smoke Grenade": "Smoke Grenade"
@@ -214,7 +214,7 @@
         },
         "Buck": {
             "Icon": "OPIcons/Buck_Icon.png",
-            "Image": "OPImages/Buck.png",
+            "Image": "OPImages/Buck.webp",
             "Equipment": {
                 "Hard Breach Charge": "Hard Breach Charge",
                 "Stun Grenade": "Stun Grenade"
