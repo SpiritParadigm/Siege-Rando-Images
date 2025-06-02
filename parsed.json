@@ -84,7 +84,7 @@
             },
             "PrimaryWeapons": {
                 "AK-12": {
-                    "Image": "Weapons/PrimaryWeapons/AK-12.png",
+                    "Image": "AK-12",
                     "BarrelAttachments": {
                         "COMPENSATOR": "COMPENSATOR",
                         "FLASH HIDER": "FLASH HIDER",
@@ -575,6 +575,18 @@
                 },
                 "AK-12": {
                     "Images": "AK-12",
+                    "BarrelAttachments": {
+                        "COMPENSATOR": "COMPENSATOR",
+                        "FLASH HIDER": "FLASH HIDER",
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
+                    },
+                    "GripAttachments": {
+                        "ANGLED GRIP": "ANGLED GRIP",
+                        "HORIZONTAL GRIP": "HORIZONTAL GRIP",
+                        "VERTICAL GRIP": "VERTICAL GRIP"
+                    },
                     "SightAttachments": {
                         "HOLO A": "HOLO A",
                         "HOLO B": "HOLO B",
@@ -590,18 +602,6 @@
                         "REFLEX A": "REFLEX A",
                         "REFLEX B": "REFLEX B",
                         "REFLEX C": "REFLEX C"
-                    },
-                    "BarrelAttachments": {
-                        "COMPENSATOR": "COMPENSATOR",
-                        "FLASH HIDER": "FLASH HIDER",
-                        "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR",
-                        "None": "None"
-                    },
-                    "GripAttachments": {
-                        "ANGLED GRIP": "ANGLED GRIP",
-                        "HORIZONTAL GRIP": "HORIZONTAL GRIP",
-                        "VERTICAL GRIP": "VERTICAL GRIP"
                     },
                     "UnderBarrelAttachments": {
                         "LASER": "LASER",
