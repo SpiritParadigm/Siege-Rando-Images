@@ -73,7 +73,10 @@
         "Nitro Cell": "Equipment/Nitro_Cell.webp",
         "Impact Grenade": "Equipment/Impact_Grenade.webp",
         "Bulletproof Camera": "Equipment/Bulletproof_Camera.webp",
-        "Deployable Shield": "Equipment/Deployable_Shield.webp"
+        "Deployable Shield": "Equipment/Deployable_Shield.webp",
+        "P-10C": "Weapons/SecondaryWeapons/P-10C.webp",
+        "Super Shorty": "Weapons/PrimaryWeapons/Super_Shorty.webp",
+        "SPSMG9": "Weapons/PrimaryWeapons/SPSMG9.webp"
     },
     "Attackers": {
         "Icons": [
@@ -1614,19 +1617,32 @@
                 }
             },
             "SecondaryWeapons": {
-                "Bailiff 410": {
-                    "Image": "Bailiff 410",
+                "P-10C": {
+                    "Image": "P-10C",
+                    "BarrelAttachments": {
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
+                    },
                     "UnderBarrelAttachments": {
                         "LASER": "LASER",
                         "None": "None"
                     }
                 },
-                "Keratos .357": {
-                    "Image": "Keratos .357",
-                    "BarrelAttachments": {
-                        "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR",
-                        "None": "None"
+                "Super Shorty": {
+                    "Image": "Super Shorty",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
                     },
                     "UnderBarrelAttachments": {
                         "LASER": "LASER",
