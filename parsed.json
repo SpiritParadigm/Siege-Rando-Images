@@ -68,7 +68,12 @@
         "Mx4 Storm": "Weapons/PrimaryWeapons/Mx4_Storm.webp",
         "Bailiff 410": "Weapons/SecondaryWeapons/Bailiff_410.webp",
         "Keratos .357": "Weapons/SecondaryWeapons/Keratos_.357.webp",
-        "SUPERNOVA": "Weapons/PrimaryWeapons/SUPERNOVA.png"
+        "SUPERNOVA": "Weapons/PrimaryWeapons/SUPERNOVA.png",
+        "Barbed Wire": "Equpiment/Barbed_Wire.webp",
+        "Nitro Cell": "Equipment/Nitro_Cell.webp",
+        "Impact Grenade": "Equipment/Impact_Grenade.webp",
+        "Bulletproof Camera": "Equipment/Bulletproof_Camera.webp",
+        "Deployable Shield": "Equipment/Deployable_Shield.webp"
     },
     "Attackers": {
         "Icons": [
@@ -1447,8 +1452,8 @@
     },
     "Defenders": {
         "Icons": [
-            "GroupIcons/Defenders_Icon_hover.svg",
-            "GroupIcons/Defenders_Icon.svg"
+            "GroupIcons/Defenders_Icon.svg",
+            "GroupIcons/Defenders_Icon_hover.svg"
         ],
         "Alibi": {
             "Icon": "OPIcons/Alibi_Icon.png",
@@ -1542,7 +1547,93 @@
         },
         "Clash": {
             "Icon": "OPIcons/KYSClash_Icon.png",
-            "Image": "OPImages/Clash.webp"
+            "Image": "OPImages/Clash.webp",
+            "Equipment": {
+                "Barbed Wire": "Barbed Wire",
+                "Impact Grenande": "Impact Grenade"
+            },
+            "PrimaryWeapons": {
+                "ACS12": {
+                    "Image": "ACS12",
+                    "GripAttachments": {
+                        "ANGLED GRIP": "ANGLED GRIP",
+                        "VERTICAL GRIP": "VERTICAL GRIP"
+                    },
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "MAGNIFIED A": "MAGNIFIED A",
+                        "MAGNIFIED B": "MAGNIFIED B",
+                        "MAGNIFIED C": "MAGNIFIED C",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                },
+                "Mx4 Storm": {
+                    "Image": "Mx4 Storm",
+                    "BarrelAttachments": {
+                        "COMPENSATOR": "COMPENSATOR",
+                        "EXTENDED BARREL": "EXTENDED BARREL",
+                        "FLASH HIDER": "FLASH HIDER",
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
+                    },
+                    "GripAttachments": {
+                        "ANGLED GRIP": "ANGLED GRIP",
+                        "VERTICAL GRIP": "VERTICAL GRIP"
+                    },
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                }
+            },
+            "SecondaryWeapons": {
+                "Bailiff 410": {
+                    "Image": "Bailiff 410",
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                },
+                "Keratos .357": {
+                    "Image": "Keratos .357",
+                    "BarrelAttachments": {
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                }
+            }
         },
         "Mute": {
             "Icon": "OPIcons/Mute_Icon.png",
