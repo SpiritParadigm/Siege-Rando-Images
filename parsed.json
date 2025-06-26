@@ -75,8 +75,9 @@
         "Bulletproof Camera": "Equipment/Bulletproof_Camera.webp",
         "Deployable Shield": "Equipment/Deployable_Shield.webp",
         "P-10C": "Weapons/SecondaryWeapons/P-10C.webp",
-        "Super Shorty": "Weapons/PrimaryWeapons/Super_Shorty.webp",
-        "SPSMG9": "Weapons/PrimaryWeapons/SPSMG9.webp"
+        "Super Shorty": "Weapons/SecondaryWeapons/Super_Shorty.webp",
+        "SPSMG9": "Weapons/SecondaryWeapons/SPSMG9.webp",
+        "CCE Shield": "Weapons/PrimaryWeapons/CCE_Shield.webp",
     },
     "Attackers": {
         "Icons": [
@@ -1558,63 +1559,7 @@
             "PrimaryWeapons": {
                 "ACS12": {
                     "Image": "ACS12",
-                    "GripAttachments": {
-                        "ANGLED GRIP": "ANGLED GRIP",
-                        "VERTICAL GRIP": "VERTICAL GRIP"
-                    },
-                    "SightAttachments": {
-                        "HOLO A": "HOLO A",
-                        "HOLO B": "HOLO B",
-                        "HOLO C": "HOLO C",
-                        "HOLO D": "HOLO D",
-                        "IRON SIGHT": "IRON SIGHT",
-                        "MAGNIFIED A": "MAGNIFIED A",
-                        "MAGNIFIED B": "MAGNIFIED B",
-                        "MAGNIFIED C": "MAGNIFIED C",
-                        "RED DOT A": "RED DOT A",
-                        "RED DOT B": "RED DOT B",
-                        "RED DOT C": "RED DOT C",
-                        "REFLEX A": "REFLEX A",
-                        "REFLEX B": "REFLEX B",
-                        "REFLEX C": "REFLEX C"
-                    },
-                    "UnderBarrelAttachments": {
-                        "LASER": "LASER",
-                        "None": "None"
-                    }
                 },
-                "Mx4 Storm": {
-                    "Image": "Mx4 Storm",
-                    "BarrelAttachments": {
-                        "COMPENSATOR": "COMPENSATOR",
-                        "EXTENDED BARREL": "EXTENDED BARREL",
-                        "FLASH HIDER": "FLASH HIDER",
-                        "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR",
-                        "None": "None"
-                    },
-                    "GripAttachments": {
-                        "ANGLED GRIP": "ANGLED GRIP",
-                        "VERTICAL GRIP": "VERTICAL GRIP"
-                    },
-                    "SightAttachments": {
-                        "HOLO A": "HOLO A",
-                        "HOLO B": "HOLO B",
-                        "HOLO C": "HOLO C",
-                        "HOLO D": "HOLO D",
-                        "IRON SIGHT": "IRON SIGHT",
-                        "RED DOT A": "RED DOT A",
-                        "RED DOT B": "RED DOT B",
-                        "RED DOT C": "RED DOT C",
-                        "REFLEX A": "REFLEX A",
-                        "REFLEX B": "REFLEX B",
-                        "REFLEX C": "REFLEX C"
-                    },
-                    "UnderBarrelAttachments": {
-                        "LASER": "LASER",
-                        "None": "None"
-                    }
-                }
             },
             "SecondaryWeapons": {
                 "P-10C": {
@@ -1643,6 +1588,33 @@
                         "REFLEX A": "REFLEX A",
                         "REFLEX B": "REFLEX B",
                         "REFLEX C": "REFLEX C"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                },
+                "SPSMG9": {
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "BarrelAttachments": {
+                        "COMPENSATOR": "COMPENSATOR",
+                        "EXTENDED BARREL": "EXTENDED BARREL",
+                        "FLASH HIDER": "FLASH HIDER",
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
                     },
                     "UnderBarrelAttachments": {
                         "LASER": "LASER",
