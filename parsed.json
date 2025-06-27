@@ -92,7 +92,10 @@
         "MP7": "Weapons/PrimaryWeapons/MP7.webp",
         "9mm C1": "Weapons/PrimaryWeapons/9mm_C1.webp",
         "Super 90": "Weapons/PrimaryWeapons/Super_90.webp",
-        "ITA12S": "Weapons/SecondaryWeapons/ITA12S.png"
+        "ITA12S": "Weapons/SecondaryWeapons/ITA12S.png",
+        "MPX": "Weapons/PrimaryWeapons/MPX.webp",
+        "SPAS-12": "Weapons/PrimaryWeapons/SPAS-12.webp",
+        "D-50": "Weapons/SecondaryWeapons/D-50.webp"
     },
     "Attackers": {
         "Icons": [
@@ -2763,7 +2766,80 @@
         },
         "Valkyrie": {
             "Icon": "OPIcons/Valkyrie_Icon.png",
-            "Image": "OPImages/Valkyrie.webp"
+            "Image": "OPImages/Valkyrie.webp",
+            "Equipment": {
+                "Impact Grenande": "Impact Grenade",
+                "Nitro Cell": "Nitro Cell"
+            },
+            "PrimaryWeapons": {
+                "MPX": {
+                    "Image": "MPX",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "BarrelAttachments": {
+                        "COMPENSATOR": "COMPENSATOR",
+                        "EXTENDED BARREL": "EXTENDED BARREL",
+                        "FLASH HIDER": "FLASH HIDER",
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
+                    },
+                    "GripAttachments": {
+                        "VERTICAL GRIP": "VERTICAL GRIP",
+                        "ANGLED GRIP": "ANGLED GRIP",
+                        "HORIZONTAL GRIP": "HORIZONTAL GRIP"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                },
+                "SPAS-12": {
+                    "Image": "SPAS-12",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                }
+            },
+            "SecondaryWeapons": {
+                "D-50": {
+                    "Image": "D-50",
+                    "BarrelAttachments": {
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                }
+            }
         },
         "Caveira": {
             "Icon": "OPIcons/Caveira_Icon.png",
