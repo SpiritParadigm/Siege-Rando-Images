@@ -89,7 +89,9 @@
         "DP27": "Weapons/PrimaryWeapons/DP27.webp",
         "416-C Carbine": "Weapons/PrimaryWeapons/416-C_Carbine.webp",
         "M870": "Weapons/PrimaryWeapons/M870.webp",
-        "MP7": "Weapons/PrimaryWeapons/MP7.webp"
+        "MP7": "Weapons/PrimaryWeapons/MP7.webp",
+        "9mm C1": "Weapons/PrimaryWeapons/9mm_C1.webp",
+        "Super 90": "Weapons/PrimaryWeapons/Super_90.webp"
     },
     "Attackers": {
         "Icons": [
@@ -246,7 +248,7 @@
                     }
                 }
             },
-            "": {
+            "SecondaryWeapons": {
                 "G8A1": {
                     "Image": "Weapons/PrimaryWeapons/G8A1.png",
                     "BarrelAttachments": {
@@ -2660,7 +2662,70 @@
         },
         "Frost": {
             "Icon": "OPIcons/Frost_Icon.png",
-            "Image": "OPImages/Frost.webp"
+            "Image": "OPImages/Frost.webp",
+            "Equipment": {
+                "Deployable Shield": "Deployable Shield",
+                "Bulletproof Camera": "Bulletproof Camera"
+            },
+            "PrimaryWeapons": {
+                "9mm C1": {
+                    "Image": "9mm C1",
+                    "SightAttachments": {
+                        "MAGNIFIED A": "MAGNIFIED A",
+                        "MAGNIFIED B": "MAGNIFIED B",
+                        "MAGNIFIED C": "MAGNIFIED C",
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "BarrelAttachments": {
+                        "COMPENSATOR": "COMPENSATOR",
+                        "EXTENDED BARREL": "EXTENDED BARREL",
+                        "FLASH HIDER": "FLASH HIDER",
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
+                    },
+                    "GripAttachments": {
+                        "VERTICAL GRIP": "VERTICAL GRIP",
+                        "ANGLED GRIP": "ANGLED GRIP",
+                        "HORIZONTAL GRIP": "HORIZONTAL GRIP"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                },
+                "Super 90": {
+                    "Image": "Super 90",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                }
+            },
+            "SecondaryWeapons": {}
         },
         "Valkyrie": {
             "Icon": "OPIcons/Valkyrie_Icon.png",
