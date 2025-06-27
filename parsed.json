@@ -88,7 +88,8 @@
         "SASG-12": "Weapons/PrimaryWeapons/SASG-12.webp",
         "DP27": "Weapons/PrimaryWeapons/DP27.webp",
         "416-C Carbine": "Weapons/PrimaryWeapons/416-C_Carbine.webp",
-        "M870": "Weapons/PrimaryWeapons/M870.webp"
+        "M870": "Weapons/PrimaryWeapons/M870.webp",
+        "MP7": "Weapons/PrimaryWeapons/MP7.webp"
     },
     "Attackers": {
         "Icons": [
@@ -2588,7 +2589,74 @@
         },
         "Bandit": {
             "Icon": "OPIcons/Bandit_Icon.png",
-            "Image": "OPImages/Bandit.webp"
+            "Image": "OPImages/Bandit.webp",
+            "Equipment": {
+                "Barbed Wire": "Barbed Wire",
+                "Nitro Cell": "Nitro Cell"
+            },
+            "PrimaryWeapons": {
+                "MP7": {
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "BarrelAttachments": {
+                        "COMPENSATOR": "COMPENSATOR",
+                        "EXTENDED BARREL": "EXTENDED BARREL",
+                        "FLASH HIDER": "FLASH HIDER",
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                },
+                "M870": {
+                    "Image": "M870",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                }
+            },
+            "SecondaryWeapons": {
+                "P12": {
+                    "Image": "P12",
+                    "BarrelAttachments": {
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                }
+            }
         },
         "Frost": {
             "Icon": "OPIcons/Frost_Icon.png",
