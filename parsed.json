@@ -91,7 +91,8 @@
         "M870": "Weapons/PrimaryWeapons/M870.webp",
         "MP7": "Weapons/PrimaryWeapons/MP7.webp",
         "9mm C1": "Weapons/PrimaryWeapons/9mm_C1.webp",
-        "Super 90": "Weapons/PrimaryWeapons/Super_90.webp"
+        "Super 90": "Weapons/PrimaryWeapons/Super_90.webp",
+        "ITA12S": "Weapons/SecondaryWeapons/ITA12S.png"
     },
     "Attackers": {
         "Icons": [
@@ -2725,7 +2726,40 @@
                     }
                 }
             },
-            "SecondaryWeapons": {}
+            "SecondaryWeapons": {
+                "ITA12S": {
+                    "Image": "ITA12S",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                },
+                "MK1 9mm": {
+                    "Image": "MK1 9mm",
+                    "BarrelAttachments": {
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                }
+            }
         },
         "Valkyrie": {
             "Icon": "OPIcons/Valkyrie_Icon.png",
