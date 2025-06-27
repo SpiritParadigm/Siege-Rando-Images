@@ -1,0 +1,9 @@
+"Equipment": {
+
+},
+"PrimaryWeapons": {
+
+},
+"SecondaryWeapons": {
+
+}
