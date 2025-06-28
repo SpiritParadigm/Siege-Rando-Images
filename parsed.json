@@ -95,7 +95,8 @@
         "ITA12S": "Weapons/SecondaryWeapons/ITA12S.png",
         "MPX": "Weapons/PrimaryWeapons/MPX.webp",
         "SPAS-12": "Weapons/PrimaryWeapons/SPAS-12.webp",
-        "D-50": "Weapons/SecondaryWeapons/D-50.webp"
+        "D-50": "Weapons/SecondaryWeapons/D-50.webp",
+        "SMG-11": "Weapons/SecondaryWeapons/SMG-11.png"
     },
     "Attackers": {
         "Icons": [
