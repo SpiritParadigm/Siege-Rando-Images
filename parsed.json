@@ -70,7 +70,7 @@
         "Bailiff 410": "Weapons/SecondaryWeapons/Bailiff_410.webp",
         "Keratos .357": "Weapons/SecondaryWeapons/Keratos_.357.webp",
         "SUPERNOVA": "Weapons/PrimaryWeapons/SUPERNOVA.png",
-        "Barbed Wire": "Equpiment/Barbed_Wire.webp",
+        "Barbed Wire": "Equipment/Barbed_Wire.webp",
         "Nitro Cell": "Equipment/Nitro_Cell.webp",
         "Impact Grenade": "Equipment/Impact_Grenade.webp",
         "Bulletproof Camera": "Equipment/Bulletproof_Camera.webp",
@@ -96,6 +96,7 @@
         "MPX": "Weapons/PrimaryWeapons/MPX.webp",
         "SPAS-12": "Weapons/PrimaryWeapons/SPAS-12.webp",
         "D-50": "Weapons/SecondaryWeapons/D-50.webp",
+        "SMG-11": "Weapons/SecondaryWeapons/SMG-11.png",
         "M12": "Weapons/PrimaryWeapons/M12.webp",
         "SPAS-15": "Weapons/PrimaryWeapons/SPAS-15.webp",
         "Luison": "Weapons/SecondaryWeapons/Luison.webp"
