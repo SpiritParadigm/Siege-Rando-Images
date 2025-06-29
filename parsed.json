@@ -95,7 +95,10 @@
         "ITA12S": "Weapons/SecondaryWeapons/ITA12S.png",
         "MPX": "Weapons/PrimaryWeapons/MPX.webp",
         "SPAS-12": "Weapons/PrimaryWeapons/SPAS-12.webp",
-        "D-50": "Weapons/SecondaryWeapons/D-50.webp"
+        "D-50": "Weapons/SecondaryWeapons/D-50.webp",
+        "M12": "Weapons/PrimaryWeapons/M12.webp",
+        "SPAS-15": "Weapons/PrimaryWeapons/SPAS-15.webp",
+        "Luison": "Weapons/SecondaryWeapons/Luison.webp"
     },
     "Attackers": {
         "Icons": [
@@ -2843,7 +2846,70 @@
         },
         "Caveira": {
             "Icon": "OPIcons/Caveira_Icon.png",
-            "Image": "OPImages/Caveira.webp"
+            "Image": "OPImages/Caveira.webp",
+            "Equipment": {
+                "Proximity Alarm": "Proximity Alarm",
+                "Impact Grenande": "Impact Grenade",
+                "Observation Blocker": "Observation Blocker"
+            },
+            "PrimaryWeapons": {
+                "M12": {
+                    "Image": "M12",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "BarrelAttachments": {
+                        "COMPENSATOR": "COMPENSATOR",
+                        "EXTENDED BARREL": "EXTENDED BARREL",
+                        "FLASH HIDER": "FLASH HIDER",
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                },
+                "SPAS-15": {
+                    "Image": "SPAS-15",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                }
+            },
+            "SecondaryWeapons": {
+                "Luison": {
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                }
+            }
         },
         "Echo": {
             "Icon": "OPIcons/Echo_Icon.png",
