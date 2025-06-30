@@ -125,7 +125,9 @@
         "P10 Roni": "Weapons/PrimaryWeapons/P10_Roni.webp",
         "M4": "Weapons/PrimaryWeapons/M4.webp",
         "M249": "Weapons/PrimaryWeapons/M249.webp",
-        "M249 SAW": "Weapons/PrimaryWeapons/M249_SAW.webp"
+        "M249 SAW": "Weapons/PrimaryWeapons/M249_SAW.webp",
+        "PRB92": "Weapons/SecondaryWeapons/PRB92.webp",
+        "Mk 14 EBR": "Weapons/PrimaryWeapons/Mk_14_EBR.webp"
     },
     "Attackers": {
         "Icons": [
@@ -4263,7 +4265,93 @@
         },
         "Aruni": {
             "Icon": "OPIcons/Aruni_Icon.png",
-            "Image": "OPImages/Aruni.webp"
+            "Image": "OPImages/Aruni.webp",
+            "Equipment": {
+                "Barbed Wire": "Barbed Wire",
+                "Bulletproof Camera": "Bulletproof Camera"
+            },
+            "PrimaryWeapons": {
+                "P10 Roni": {
+                    "Image": "P10 Roni",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "BarrelAttachments": {
+                        "COMPENSATOR": "COMPENSATOR",
+                        "EXTENDED BARREL": "EXTENDED BARREL",
+                        "FLASH HIDER": "FLASH HIDER",
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
+                    },
+                    "GripAttachments": {
+                        "VERTICAL GRIP": "VERTICAL GRIP",
+                        "ANGLED GRIP": "ANGLED GRIP",
+                        "HORIZONTAL GRIP": "HORIZONTAL GRIP"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                },
+                "Mk 14 EBR": {
+                    "Image": "Mk 14 EBR",
+                    "SightAttachments": {
+                        "MAGNIFIED A": "MAGNIFIED A",
+                        "MAGNIFIED B": "MAGNIFIED B",
+                        "MAGNIFIED C": "MAGNIFIED C",
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "BarrelAttachments": {
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
+                    },
+                    "GripAttachments": {
+                        "VERTICAL GRIP": "VERTICAL GRIP",
+                        "ANGLED GRIP": "ANGLED GRIP",
+                        "HORIZONTAL GRIP": "HORIZONTAL GRIP"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                }
+            },
+            "SecondaryWeapons": {
+                "PRB92": {
+                    "Image": "PRB92",
+                    "BarrelAttachments": {
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                }
+            }
         },
         "Thunderbird": {
             "Icon": "OPIcons/Thunderbird_Icon.png",
