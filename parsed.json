@@ -115,7 +115,11 @@
         "BOSG.12.2": "Weapons/PrimaryWeapons/BOSG.12.2.webp",
         "C75 Auto": "Weapons/SecondaryWeapons/C75_Auto.webp",
         "SMG-12": "Weapons/SecondaryWeapons/SMG-12.webp",
-        "ALDA 5.56": "Weapons/PrimaryWeapons/ALDA_5.56.webp"
+        "ALDA 5.56": "Weapons/PrimaryWeapons/ALDA_5.56.webp",
+        "AUG A3": "Weapons/PrimaryWeapons/AUG_A3.webp",
+        "TCSG12": "Weapons/PrimaryWeapons/TCSG12.webp",
+        "LFP586": "Weapons/SecondaryWeapons/LFP586.webp",
+        ".44 Mag Semi-Auto": "Weapons/SecondaryWeapons/.44_Mag_Semi-Auto.webp"
     },
     "Attackers": {
         "Icons": [
@@ -3502,7 +3506,95 @@
         },
         "Kaid": {
             "Icon": "OPIcons/Kaid_Icon.png",
-            "Image": "OPImages/Kaid.webp"
+            "Image": "OPImages/Kaid.webp",
+            "Equipment": {
+                "Barbed Wire": "Barbed Wire",
+                "Nitro Cell": "Nitro Cell",
+                "Observation Blocker": "Observation Blocker"
+            },
+            "PrimaryWeapons": {
+                "AUG A3": {
+                    "Image": "AUG A3",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "BarrelAttachments": {
+                        "COMPENSATOR": "COMPENSATOR",
+                        "EXTENDED BARREL": "EXTENDED BARREL",
+                        "FLASH HIDER": "FLASH HIDER",
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
+                    },
+                    "GripAttachments": {
+                        "VERTICAL GRIP": "VERTICAL GRIP",
+                        "ANGLED GRIP": "ANGLED GRIP",
+                        "HORIZONTAL GRIP": "HORIZONTAL GRIP"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                },
+                "TCSG12": {
+                    "Image": "TSCG12",
+                    "SightAttachments": {
+                        "MAGNIFIED A": "MAGNIFIED A",
+                        "MAGNIFIED B": "MAGNIFIED B",
+                        "MAGNIFIED C": "MAGNIFIED C",
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "BarrelAttachments": {
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
+                    },
+                    "GripAttachments": {
+                        "VERTICAL GRIP": "VERTICAL GRIP",
+                        "ANGLED GRIP": "ANGLED GRIP",
+                        "HORIZONTAL GRIP": "HORIZONTAL GRIP"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                }
+            },
+            "SecondaryWeapons": {
+                "LFP586": {
+                    "Image": "LFP586",
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                },
+                ".44 Mag Semi-Auto": {
+                    "Image": ".44 Mag Semi-Auto",
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                }
+            }
         },
         "Mozzie": {
             "Icon": "OPIcons/Mozzie_Icon.png",
