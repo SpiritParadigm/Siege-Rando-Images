@@ -102,8 +102,8 @@
         "Luison": "Weapons/SecondaryWeapons/Luison.webp",
         "Scorpion EVO 3A 1": "Weapons/PrimaryWeapons/Scorpion_EVO_3_A1.webp",
         "FO-12": "Weapons/PrimaryWeapons/FO-12.webp",
-        "P229": "Weapons/SecondaryWeapons/P229",
-        "MP5SD": "Weapons/PrimaryWeapons/MP5SD",
+        "P229": "Weapons/SecondaryWeapons/P229.webp",
+        "MP5SD": "Weapons/PrimaryWeapons/MP5SD.webp",
         "ITA12L": "Weapons/PrimaryWeapons/ITA12L.webp",
         "Vector .45 ACP": "Weapons/PrimaryWeapons/Vector_.45_ACP.webp",
         "USP40": "Weapons/SecondaryWeapons/USP40.webp",
@@ -1068,7 +1068,8 @@
         },
         "Striker": {
             "Icon": "OPIcons/Striker_Icon.png",
-            "Image": "OPImages/Striker.webp"
+            "Image": "OPImages/Striker.webp",
+            "EquipmentCount": 2
         },
         "Thatcher": {
             "Icon": "OPIcons/Thatcher_Icon.png",
@@ -4173,7 +4174,53 @@
         },
         "Sentry": {
             "Icon": "OPIcons/Sentry_Icon.png",
-            "Image": "OPImages/Sentry.webp"
+            "Image": "OPImages/Sentry.webp",
+            "EquipmentCount": 2,
+            "Equipment": {
+                "Barbed Wire": "Barbed Wire",
+                "Bulletproof Camera": "Bulletproof Camera",
+                "Observation Blocker": "Observation Blocker",
+                "Deployable Shield": "Deployable Shield",
+                "Impact Grenande": "Impact Grenade",
+                "Proximity Alarm": "Proximity Alarm",
+                "Nitro Cell": "Nitro Cell"
+            },
+            "PrimaryWeapons": {
+                "Commando 9": {
+                    "Image": "Commando 9",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "BarrelAttachments": {
+                        "COMPENSATOR": "COMPENSATOR",
+                        "EXTENDED BARREL": "EXTENDED BARREL",
+                        "FLASH HIDER": "FLASH HIDER",
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
+                    },
+                    "GripAttachments": {
+                        "VERTICAL GRIP": "VERTICAL GRIP",
+                        "ANGLED GRIP": "ANGLED GRIP",
+                        "HORIZONTAL GRIP": "HORIZONTAL GRIP"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                },
+            },
+            "SecondaryWeapons": {}
         }
     }
 }
