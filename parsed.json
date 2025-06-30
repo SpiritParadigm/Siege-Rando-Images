@@ -103,7 +103,10 @@
         "Scorpion EVO 3A 1": "Weapons/PrimaryWeapons/Scorpion_EVO_3_A1.webp",
         "FO-12": "Weapons/PrimaryWeapons/FO-12.webp",
         "P229": "Weapons/SecondaryWeapons/P229",
-        "MP5SD": "Weapons/PrimaryWeapons/MP5SD"
+        "MP5SD": "Weapons/PrimaryWeapons/MP5SD",
+        "ITA12L": "Weapons/PrimaryWeapons/ITA12L.webp",
+        "Vector .45 ACP": "Weapons/PrimaryWeapons/Vector_.45_ACP.webp",
+        "USP40": "Weapons/SecondaryWeapons/USP40.webp"
     },
     "Attackers": {
         "Icons": [
@@ -3024,7 +3027,97 @@
         },
         "Mira": {
             "Icon": "OPIcons/Mira_Icon.png",
-            "Image": "OPImages/Mira.webp"
+            "Image": "OPImages/Mira.webp",
+            "Equipment": {
+                "Proximity Alarm": "Proximity Alarm",
+                "Nitro Cell": "Nitro Cell"
+            },
+            "PrimaryWeapons": {
+                "Vector .45 ACP": {
+                    "Image": "",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "BarrelAttachments": {
+                        "COMPENSATOR": "COMPENSATOR",
+                        "EXTENDED BARREL": "EXTENDED BARREL",
+                        "FLASH HIDER": "FLASH HIDER",
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
+                    },
+                    "GripAttachments": {
+                        "VERTICAL GRIP": "VERTICAL GRIP"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                },
+                "ITA12L": {
+                    "Image": "ITA12L",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                }
+            },
+            "SecondaryWeapons": {
+                "ITA12S": {
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                },
+                "USP40": {
+                    "Image": "USP40",
+                    "BarrelAttachments": {
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "None": "None"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                }
+            }
         },
         "Lesion": {
             "Icon": "OPIcons/Lesion_Icon.png",
