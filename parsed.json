@@ -4219,8 +4219,56 @@
                         "None": "None"
                     }
                 },
+                "M870": {
+                    "Image": "M870",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                }
             },
-            "SecondaryWeapons": {}
+            "SecondaryWeapons": {
+                "C75 Auto": {
+                    "Image": "C75 Auto",
+                    "BarrelAttachments": {
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
+                    }
+                },
+                "Super Shorty": {
+                    "Image": "Super Shorty",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                }
+            }
         }
     }
 }
