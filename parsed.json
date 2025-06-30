@@ -119,7 +119,10 @@
         "AUG A3": "Weapons/PrimaryWeapons/AUG_A3.webp",
         "TCSG12": "Weapons/PrimaryWeapons/TCSG12.webp",
         "LFP586": "Weapons/SecondaryWeapons/LFP586.webp",
-        ".44 Mag Semi-Auto": "Weapons/SecondaryWeapons/.44_Mag_Semi-Auto.webp"
+        ".44 Mag Semi-Auto": "Weapons/SecondaryWeapons/.44_Mag_Semi-Auto.webp",
+        "SDP 9mm": "Weapons/SecondaryWeapons/SDP_9mm.webp",
+        "Commando 9": "Weapons/PrimaryWeapons/Commando_9.webp",
+        "P10 Roni": "Weapons/PrimaryWeapons/P10_Roni.webp"
     },
     "Attackers": {
         "Icons": [
@@ -3598,7 +3601,93 @@
         },
         "Mozzie": {
             "Icon": "OPIcons/Mozzie_Icon.png",
-            "Image": "OPImages/Mozzie.webp"
+            "Image": "OPImages/Mozzie.webp",
+            "Equipment": {
+                "Barbed Wire": "Barbed Wire",
+                "Nitro Cell": "Nitro Cell"
+            },
+            "PrimaryWeapons": {
+                "Commando 9": {
+                    "Image": "Commando 9",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "BarrelAttachments": {
+                        "COMPENSATOR": "COMPENSATOR",
+                        "EXTENDED BARREL": "EXTENDED BARREL",
+                        "FLASH HIDER": "FLASH HIDER",
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
+                    },
+                    "GripAttachments": {
+                        "VERTICAL GRIP": "VERTICAL GRIP",
+                        "ANGLED GRIP": "ANGLED GRIP",
+                        "HORIZONTAL GRIP": "HORIZONTAL GRIP"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                },
+                "P10 Roni": {
+                    "Image": "P10 Roni",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "BarrelAttachments": {
+                        "COMPENSATOR": "COMPENSATOR",
+                        "EXTENDED BARREL": "EXTENDED BARREL",
+                        "FLASH HIDER": "FLASH HIDER",
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
+                    },
+                    "GripAttachments": {
+                        "VERTICAL GRIP": "VERTICAL GRIP",
+                        "ANGLED GRIP": "ANGLED GRIP",
+                        "HORIZONTAL GRIP": "HORIZONTAL GRIP"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                }
+            },
+            "SecondaryWeapons": {
+                "SDP 9mm": {
+                    "Image": "SDP 9mm",
+                    "BarrelAttachments": {
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "None": "None"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                }
+            }
         },
         "Warden": {
             "Icon": "OPIcons/Warden_Icon.png",
