@@ -109,7 +109,7 @@
         "USP40": "Weapons/SecondaryWeapons/USP40.webp",
         "SIX12": "Weapons/PrimaryWeapons/SIX12.webp",
         "SIX12 SD": "Weapons/PrimaryWeapons/SIX12_SD.webp",
-        "T-5 SMG": "Weapons/PrimaryWeapons/T-5_SMG",
+        "T-5 SMG": "Weapons/PrimaryWeapons/T-5_SMG.webp",
         "Q-929": "Weapons/SecondaryWeapons/Q-929.webp",
         "K1A": "Weapons/PrimaryWeapons/K1A.webp",
         "BOSG.12.2": "Weapons/PrimaryWeapons/BOSG.12.2.webp",
@@ -1069,7 +1069,18 @@
         "Striker": {
             "Icon": "OPIcons/Striker_Icon.png",
             "Image": "OPImages/Striker.webp",
-            "EquipmentCount": 2
+            "EquipmentCount": 2,
+            "Equipment": {
+                "Frag": "Frag",
+                "Hard Breach Charge": "Hard Breach Charge",
+                "Smoke Grenade": "Smoke Grenade",
+                "Stun Grenade": "Stun Grenade",
+                "Breach Charge": "Breach Charge",
+                "Impact EMP": "Impact EMP",
+                "Claymore": "Claymore"
+            },
+            "PrimaryWeapons": {},
+            "SecondaryWeapons": {}
         },
         "Thatcher": {
             "Icon": "OPIcons/Thatcher_Icon.png",
