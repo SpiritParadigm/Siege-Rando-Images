@@ -110,7 +110,11 @@
         "SIX12": "Weapons/PrimaryWeapons/SIX12.webp",
         "SIX12 SD": "Weapons/PrimaryWeapons/SIX12_SD.webp",
         "T-5 SMG": "Weapons/PrimaryWeapons/T-5_SMG",
-        "Q-929": "Weapons/SecondaryWeapons/Q-929.webp"
+        "Q-929": "Weapons/SecondaryWeapons/Q-929.webp",
+        "K1A": "Weapons/PrimaryWeapons/K1A.webp",
+        "BOSG.12.2": "Weapons/PrimaryWeapons/BOSG.12.2.webp",
+        "C75 Auto": "Weapons/SecondaryWeapons/C75_Auto.webp",
+        "SMG-12": "Weapons/SecondaryWeapons/SMG-12.webp"
     },
     "Attackers": {
         "Icons": [
@@ -2951,7 +2955,8 @@
                     },
                     "GripAttachments": {
                         "VERTICAL GRIP": "VERTICAL GRIP",
-                        "ANGLED GRIP": "ANGLED GRIP"
+                        "ANGLED GRIP": "ANGLED GRIP",
+                        "HORIZONTAL GRIP": "HORIZONTAL GRIP"
                     },
                     "UnderBarrelAttachments": {
                         "LASER": "LASER",
@@ -3061,7 +3066,8 @@
                         "None": "None"
                     },
                     "GripAttachments": {
-                        "VERTICAL GRIP": "VERTICAL GRIP"
+                        "VERTICAL GRIP": "VERTICAL GRIP",
+                        "HORIZONTAL GRIP": "HORIZONTAL GRIP"
                     },
                     "UnderBarrelAttachments": {
                         "LASER": "LASER",
@@ -3273,7 +3279,8 @@
                     },
                     "GripAttachments": {
                         "VERTICAL GRIP": "VERTICAL GRIP",
-                        "ANGLED GRIP": "ANGLED GRIP"
+                        "ANGLED GRIP": "ANGLED GRIP",
+                        "HORIZONTAL GRIP": "HORIZONTAL GRIP"
                     },
                     "UnderBarrelAttachments": {
                         "LASER": "LASER",
@@ -3298,7 +3305,108 @@
         },
         "Vigil": {
             "Icon": "OPIcons/Vigil_Icon.png",
-            "Image": "OPImages/Vigil.webp"
+            "Image": "OPImages/Vigil.webp",
+            "Equipment": {
+                "Bulletproof Camera": "Bulletproof Camera",
+                "Impact Grenande": "Impact Grenade"
+            },
+            "PrimaryWeapons": {
+                "BOSG.12.2": {
+                    "Image": "BOSG.12.2",
+                    "SightAttachments": {
+                        "MAGNIFIED A": "MAGNIFIED A",
+                        "MAGNIFIED B": "MAGNIFIED B",
+                        "MAGNIFIED C": "MAGNIFIED C",
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "GripAttachments": {
+                        "VERTICAL GRIP": "VERTICAL GRIP",
+                        "ANGLED GRIP": "ANGLED GRIP",
+                        "HORIZONTAL GRIP": "HORIZONTAL GRIP"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                },
+                "K1A": {
+                    "Image": "K1A",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "BarrelAttachments": {
+                        "COMPENSATOR": "COMPENSATOR",
+                        "EXTENDED BARREL": "EXTENDED BARREL",
+                        "FLASH HIDER": "FLASH HIDER",
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
+                    },
+                    "GripAttachments": {
+                        "VERTICAL GRIP": "VERTICAL GRIP",
+                        "ANGLED GRIP": "ANGLED GRIP",
+                        "HORIZONTAL GRIP": "HORIZONTAL GRIP"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                }
+            },
+            "SecondaryWeapons": {
+                "C75 Auto": {
+                    "Image": "C75 Auto",
+                    "BarrelAttachments": {
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
+                    }
+                },
+                "SMG-12": {
+                    "Image": "SMG-12",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "GripAttachments": {
+                        "VERTICAL GRIP": "VERTICAL GRIP",
+                        "ANGLED GRIP": "ANGLED GRIP",
+                        "HORIZONTAL GRIP": "HORIZONTAL GRIP"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                }
+            }
         },
         "Maestro": {
             "Icon": "OPIcons/Maestro_Icon.png",
