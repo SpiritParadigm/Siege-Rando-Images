@@ -136,7 +136,8 @@
         "C7E": "Weapons/PrimaryWeapons/C7E.webp",
         "SC3000K": "Weapons/PrimaryWeapons/SC3000K.webp",
         "TYPE-89": "Weapons/PrimaryWeapons/TYPE-89.png",
-        "MK17 CQB": "Weapons/PrimaryWeapons/MK17_CQB.png"
+        "MK17 CQB": "Weapons/PrimaryWeapons/MK17_CQB.png",
+        "SR-25": "Weapons/PrimaryWeapons/SR-15.png"
     },
     "Attackers": {
         "Icons": [
@@ -492,6 +493,41 @@
                         "REFLEX A": "REFLEX A",
                         "REFLEX B": "REFLEX B",
                         "REFLEX C": "REFLEX C"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                },
+                "SR-25": {
+                    "Images": "SR-25",
+                    "BarrelAttachments": {
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
+                    },
+                    "GripAttachments": {
+                        "ANGLED GRIP": "ANGLED GRIP",
+                        "HORIZONTAL GRIP": "HORIZONTAL GRIP",
+                        "VERTICAL GRIP": "VERTICAL GRIP"
+                    },
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "MAGNIFIED A": "MAGNIFIED A",
+                        "MAGNIFIED B": "MAGNIFIED B",
+                        "MAGNIFIED C": "MAGNIFIED C",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C",
+                        "TELESCOPIC A": "TELESCOPIC A",
+                        "TELESCOPIC B": "TELESCOPIC B"
                     },
                     "UnderBarrelAttachments": {
                         "LASER": "LASER",
