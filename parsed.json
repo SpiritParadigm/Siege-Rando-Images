@@ -134,7 +134,9 @@
         "PCX-33": "Weapons/PrimaryWeapons/PCX-33.webp",
         "AR-15.50": "Weapons/PrimaryWeapons/AR-15.50.webp",
         "C7E": "Weapons/PrimaryWeapons/C7E.webp",
-        "SC3000K": "Weapons/PrimaryWeapons/SC3000K.webp"
+        "SC3000K": "Weapons/PrimaryWeapons/SC3000K.webp",
+        "TYPE-89": "Weapons/PrimaryWeapons/TYPE-89.png",
+        "MK17 CQB": "Weapons/PrimaryWeapons/MK17_CQB.png"
     },
     "Attackers": {
         "Icons": [
