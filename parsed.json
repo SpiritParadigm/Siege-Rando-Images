@@ -294,35 +294,33 @@
                 }
             },
             "SecondaryWeapons": {
-                "G8A1": {
-                    "Image": "Weapons/PrimaryWeapons/G8A1.png",
-                    "BarrelAttachments": {
-                        "COMPENSATOR": "COMPENSATOR",
-                        "FLASH HIDER": "FLASH HIDER",
-                        "MUZZLE BRAKE": "MUZZLE BRAKE",
-                        "SUPPRESSOR": "SUPPRESSOR",
-                        "None": "None"
-                    },
-                    "GripAttachments": {
-                        "ANGLED GRIP": "ANGLED GRIP",
-                        "HORIZONTAL GRIP": "HORIZONTAL GRIP",
-                        "VERTICAL GRIP": "VERTICAL GRIP"
-                    },
+                "SMG-11": {
+                    "Image": "SMG-11",
                     "SightAttachments": {
                         "HOLO A": "HOLO A",
                         "HOLO B": "HOLO B",
                         "HOLO C": "HOLO C",
                         "HOLO D": "HOLO D",
                         "IRON SIGHT": "IRON SIGHT",
-                        "MAGNIFIED A": "MAGNIFIED A",
-                        "MAGNIFIED B": "MAGNIFIED B",
-                        "MAGNIFIED C": "MAGNIFIED C",
                         "RED DOT A": "RED DOT A",
                         "RED DOT B": "RED DOT B",
                         "RED DOT C": "RED DOT C",
                         "REFLEX A": "REFLEX A",
                         "REFLEX B": "REFLEX B",
                         "REFLEX C": "REFLEX C"
+                    },
+                    "BarrelAttachments": {
+                        "COMPENSATOR": "COMPENSATOR",
+                        "EXTENDED BARREL": "EXTENDED BARREL",
+                        "FLASH HIDER": "FLASH HIDER",
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
+                    },
+                    "GripAttachments": {
+                        "VERTICAL GRIP": "VERTICAL GRIP",
+                        "ANGLED GRIP": "ANGLED GRIP",
+                        "HORIZONTAL GRIP": "HORIZONTAL GRIP"
                     },
                     "UnderBarrelAttachments": {
                         "LASER": "LASER",
