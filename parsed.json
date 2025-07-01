@@ -1014,7 +1014,63 @@
         },
         "Kali": {
             "Icon": "OPIcons/Kali_Icon.png",
-            "Image": "OPImages/Kali.webp"
+            "Image": "OPImages/Kali.webp",
+            "Equipment": {
+                "Breach Charge": "Breach Charge",
+                "Claymore": "Claymore"
+            },
+            "PrimaryWeapons": {
+                "CSRX 300": "Weapons/PrimaryWeapons/CSRX_300.webp"
+            },
+            "SecondaryWeapons": {
+                "C75 Auto": {
+                    "Image": "C75 Auto",
+                    "BarrelAttachments": {
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
+                    }
+                },
+                "SPSMG9": {
+                    "Image": "SPSMG9",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "BarrelAttachments": {
+                        "COMPENSATOR": "COMPENSATOR",
+                        "EXTENDED BARREL": "EXTENDED BARREL",
+                        "FLASH HIDER": "FLASH HIDER",
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                },
+                "P226 MK 25": {
+                    "Image": "P226 MK 25",
+                    "BarrelAttachments": {
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                }
+            }
         },
         "Lion": {
             "Icon": "OPIcons/Lion_Icon.png",
