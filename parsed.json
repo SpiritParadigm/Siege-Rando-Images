@@ -140,7 +140,9 @@
         "SR-25": "Weapons/PrimaryWeapons/SR-15.png",
         "T-95 LSW": "Weapons/PrimaryWeapons/T-95_LSW.webp",
         "POF-9": "Weapons/PrimaryWeapons/POF-9.webp",
-        "PDW9": "Weapons/PrimaryWeapons/PDW9.webp"
+        "PDW9": "Weapons/PrimaryWeapons/PDW9.webp",
+        "AK-74M": "Weapons/PrimaryWeapons/AK-74M.webp",
+        "ARX200": "Weapons/PrimaryWeapons/ARX200.webp"
     },
     "Attackers": {
         "Icons": [
