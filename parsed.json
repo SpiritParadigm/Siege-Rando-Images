@@ -132,7 +132,8 @@
         "1911 TACOPS": "Weapons/SecondaryWeapons/1911_TACOPS.webp",
         "UZK50GI": "Weapons/PrimaryWeapons/UZK50GI.webp",
         "PCX-33": "Weapons/PrimaryWeapons/PCX-33.webp",
-        "AR-15.50": "Weapons/PrimaryWeapons/AR-15.50.webp"
+        "AR-15.50": "Weapons/PrimaryWeapons/AR-15.50.webp",
+        "C7E": "Weapons/PrimaryWeapons/C7E.webp"
     },
     "Attackers": {
         "Icons": [
