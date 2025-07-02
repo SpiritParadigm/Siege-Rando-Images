@@ -656,23 +656,38 @@
         },
         "Capitao": {
             "Icon": "OPIcons/Capitao_Icon.png",
-            "Image": "OPImages/Capitao.webp"
+            "Image": "OPImages/Capitao.webp",
+            "Equipment": {},
+            "PrimaryWeapons": {},
+            "SecondaryWeapons": {}
         },
         "Deimos": {
             "Icon": "OPIcons/Deimos_Icon.png",
-            "Image": "OPImages/Deimos.webp"
+            "Image": "OPImages/Deimos.webp",
+            "Equipment": {},
+            "PrimaryWeapons": {},
+            "SecondaryWeapons": {}
         },
         "Dokkaebi": {
             "Icon": "OPIcons/Dokkaebi_Icon.png",
-            "Image": "OPImages/Dokkaebi.webp"
+            "Image": "OPImages/Dokkaebi.webp",
+            "Equipment": {},
+            "PrimaryWeapons": {},
+            "SecondaryWeapons": {}
         },
         "Finka": {
             "Icon": "OPIcons/Finka_Icon.png",
-            "Image": "OPImages/Finka.webp"
+            "Image": "OPImages/Finka.webp",
+            "Equipment": {},
+            "PrimaryWeapons": {},
+            "SecondaryWeapons": {}
         },
         "Flores": {
             "Icon": "OPIcons/Flores_Icon.png",
-            "Image": "OPImages/Flores.webp"
+            "Image": "OPImages/Flores.webp",
+            "Equipment": {},
+            "PrimaryWeapons": {},
+            "SecondaryWeapons": {}
         },
         "Fuze": {
             "Icon": "OPIcons/Fuze_Icon.png",
@@ -868,11 +883,102 @@
         },
         "Gridlock": {
             "Icon": "OPIcons/Gridlock_Icon.png",
-            "Image": "OPImages/Gridlock.webp"
+            "Image": "OPImages/Gridlock.webp",
+            "Equipment": {},
+            "PrimaryWeapons": {},
+            "SecondaryWeapons": {}
         },
         "Grim": {
             "Icon": "OPIcons/Grim_Icon.png",
-            "Image": "OPImages/Grim.webp"
+            "Image": "OPImages/Grim.webp",
+            "Equipment": {
+                "Breach Charge": "Breach Charge",
+                "Hard Breach Charge": "Hard Breach Charge",
+                "Claymore": "Claymore"
+            },
+            "PrimaryWeapons": {
+                "SG-CQB": {
+                    "Images": "SG-CQB",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "GripAttachments": {
+                        "HORIZONTAL GRIP": "HORIZONTAL GRIP",
+                        "VERTICAL GRIP": "VERTICAL GRIP"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                },
+                "552 COMMANDO": {
+                    "Image": "552 COMMANDO",
+                    "SightAttachments": {
+                        "HOLO A": "HOLO A",
+                        "HOLO B": "HOLO B",
+                        "HOLO C": "HOLO C",
+                        "HOLO D": "HOLO D",
+                        "IRON SIGHT": "IRON SIGHT",
+                        "MAGNIFIED A": "MAGNIFIED A",
+                        "MAGNIFIED B": "MAGNIFIED B",
+                        "MAGNIFIED C": "MAGNIFIED C",
+                        "RED DOT A": "RED DOT A",
+                        "RED DOT B": "RED DOT B",
+                        "RED DOT C": "RED DOT C",
+                        "REFLEX A": "REFLEX A",
+                        "REFLEX B": "REFLEX B",
+                        "REFLEX C": "REFLEX C"
+                    },
+                    "BarrelAttachments": {
+                        "COMPENSATOR": "COMPENSATOR",
+                        "EXTENDED BARREL": "EXTENDED BARREL",
+                        "FLASH HIDER": "FLASH HIDER",
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "None": "None"
+                    },
+                    "GripAttachments": {
+                        "ANGLED GRIP": "ANGLED GRIP",
+                        "HORIZONTAL GRIP": "HORIZONTAL GRIP",
+                        "VERTICAL GRIP": "VERTICAL GRIP"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                }
+            },
+            "SecondaryWeapons": {
+                "P229": {
+                    "Image": "P229",
+                    "BarrelAttachments": {
+                        "SUPPRESSOR": "SUPPRESSOR",
+                        "MUZZLE BRAKE": "MUZZLE BRAKE",
+                        "None": "None"
+                    },
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                },
+                "Bailiff 410": {
+                    "Image": "Bailiff 410",
+                    "UnderBarrelAttachments": {
+                        "LASER": "LASER",
+                        "None": "None"
+                    }
+                }
+            }
         },
         "Hibana": {
             "Icon": "OPIcons/Hibana_Icon.png",
