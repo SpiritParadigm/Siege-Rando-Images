@@ -467,7 +467,7 @@
                 "Claymore": "Claymore"
             },
             "PrimaryWeapons": {
-                "H.U.L.L. Adaptable Shield": "Weapons/PrimaryWeapons/H.U.L.L._ADAPTABLE_SHIELD",
+                "H.U.L.L. Adaptable Shield": "Images/Weapons/PrimaryWeapons/H.U.L.L._ADAPTABLE_SHIELD",
                 "Mk17 CQB": {
                     "Image": "MK17_CQB",
                     "BarrelAttachments": {
