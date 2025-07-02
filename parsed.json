@@ -781,13 +781,13 @@
         "Capitao": {
             "Icon": "OPIcons/Capitao_Icon.png",
             "Image": "OPImages/Capitao.webp",
-<<<<<<< HEAD
-            "PrimaryWeapons":
-=======
-            "Equipment": {},
+            "Equipment": {
+                "Hard Breach Charge": "Hard Breach Charge",
+                "Impact EMP": "Impact EMP",
+                "Claymore": "Claymore"
+            },
             "PrimaryWeapons": {},
             "SecondaryWeapons": {}
->>>>>>> e12333767c609fef330be60a41471cd29e78953f
         },
         "Deimos": {
             "Icon": "OPIcons/Deimos_Icon.png",
