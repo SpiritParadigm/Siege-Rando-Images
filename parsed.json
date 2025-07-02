@@ -469,7 +469,7 @@
             "PrimaryWeapons": {
                 "H.U.L.L. Adaptable Shield": "Weapons/PrimaryWeapons/H.U.L.L._ADAPTABLE_SHIELD.png",
                 "Mk17 CQB": {
-                    "Image": "MK17_CQB",
+                    "Image": "MK17 CQB",
                     "BarrelAttachments": {
                         "COMPENSATOR": "COMPENSATOR",
                         "FLASH HIDER": "FLASH HIDER",
