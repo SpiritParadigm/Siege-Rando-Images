@@ -138,25 +138,14 @@
         "TYPE-89": "Weapons/PrimaryWeapons/TYPE-89.png",
         "MK17 CQB": "Weapons/PrimaryWeapons/MK17_CQB.png",
         "SR-25": "Weapons/PrimaryWeapons/SR-15.png",
-<<<<<<< HEAD
-        "PARA-308": "Weapons/PrimaryWeapons/PARA-308.png"
-=======
+        "PARA-308": "Weapons/PrimaryWeapons/PARA-308.png",
         "T-95 LSW": "Weapons/PrimaryWeapons/T-95_LSW.webp",
-<<<<<<< HEAD
-        "POF-9": "Weapons/PrimaryWeapons/POF-9.webp"
->>>>>>> e896b1f854e83836716988216a3e854bf7ea5142
-=======
         "POF-9": "Weapons/PrimaryWeapons/POF-9.webp",
-<<<<<<< HEAD
-        "PDW9": "Weapons/PrimaryWeapons/PDW9.webp"
->>>>>>> 0053d7ccf9e3d7e436d1fb8424d637d760f2641c
-=======
         "PDW9": "Weapons/PrimaryWeapons/PDW9.webp",
         "AK-74M": "Weapons/PrimaryWeapons/AK-74M.webp",
         "ARX200": "Weapons/PrimaryWeapons/ARX200.webp",
         "V308": "Weapons/PrimaryWeapons/V308.webp",
         "F90": "Weapons/PrimaryWeapons/F90.webp"
->>>>>>> e12333767c609fef330be60a41471cd29e78953f
     },
     "Attackers": {
         "Icons": [
