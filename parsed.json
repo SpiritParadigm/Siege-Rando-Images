@@ -148,10 +148,7 @@
         "F90": "Weapons/PrimaryWeapons/F90.webp"
     },
     "Attackers": {
-        "Icons": [
-            "GroupIcons/Attackers_Icon_hover.svg",
-            "GroupIcons/Attackers_Icon.svg"
-        ],
+        "Icon": "GroupIcons/Attackers_Icon.svg",
         "Ace": {
             "Icon": "OPIcons/Ace_Icon.png",
             "Image": "OPImages/Ace.webp",
@@ -3722,10 +3719,7 @@
         }
     },
     "Defenders": {
-        "Icons": [
-            "GroupIcons/Defenders_Icon.svg",
-            "GroupIcons/Defenders_Icon_hover.svg"
-        ],
+        "Icon": "GroupIcons/Defenders_Icon.svg",
         "Alibi": {
             "Icon": "OPIcons/Alibi_Icon.png",
             "Image": "OPImages/Alibi.webp",
