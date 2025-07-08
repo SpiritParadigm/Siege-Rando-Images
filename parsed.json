@@ -3018,8 +3018,8 @@
         "Striker": {
             "Icon": "OPIcons/Striker_Icon.png",
             "Image": "OPImages/Striker.webp",
-            "EquipmentCount": 2,
             "Equipment": {
+                "Count": 2,
                 "Frag": "Frag",
                 "Hard Breach Charge": "Hard Breach Charge",
                 "Smoke Grenade": "Smoke Grenade",
@@ -7008,8 +7008,8 @@
         "Sentry": {
             "Icon": "OPIcons/Sentry_Icon.png",
             "Image": "OPImages/Sentry.webp",
-            "EquipmentCount": 2,
             "Equipment": {
+                "Count": 2,
                 "Barbed Wire": "Barbed Wire",
                 "Bulletproof Camera": "Bulletproof Camera",
                 "Observation Blocker": "Observation Blocker",
