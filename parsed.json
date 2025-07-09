@@ -2101,6 +2101,7 @@
             },
             "SecondaryWeapons": {
                 "ITA12S": {
+                    "Image": "ITA12S",
                     "SightAttachments": {
                         "HOLO A": "HOLO A",
                         "HOLO B": "HOLO B",
@@ -2816,6 +2817,7 @@
                     }
                 },
                 "ITA12S": {
+                    "Image": "ITA12S",
                     "SightAttachments": {
                         "HOLO A": "HOLO A",
                         "HOLO B": "HOLO B",
@@ -3111,6 +3113,7 @@
                     }
                 },
                 "ITA12S": {
+                    "Image": "ITA12S",
                     "SightAttachments": {
                         "HOLO A": "HOLO A",
                         "HOLO B": "HOLO B",
@@ -5321,6 +5324,7 @@
             },
             "SecondaryWeapons": {
                 "ITA12S": {
+                    "Image": "ITA12S",
                     "SightAttachments": {
                         "HOLO A": "HOLO A",
                         "HOLO B": "HOLO B",
@@ -6339,6 +6343,7 @@
                     }
                 },
                 "ITA12S": {
+                    "Image": "ITA12S",
                     "SightAttachments": {
                         "HOLO A": "HOLO A",
                         "HOLO B": "HOLO B",
