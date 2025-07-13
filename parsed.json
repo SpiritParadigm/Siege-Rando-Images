@@ -3594,6 +3594,7 @@
                     }
                 },
                 "MP7": {
+                    "Image": "MP7",
                     "SightAttachments": {
                         "MAGNIFIED A": "MAGNIFIED A",
                         "MAGNIFIED B": "MAGNIFIED B",
@@ -4859,6 +4860,7 @@
             },
             "PrimaryWeapons": {
                 "MP7": {
+                    "Image": "MP7",
                     "SightAttachments": {
                         "HOLO A": "HOLO A",
                         "HOLO B": "HOLO B",
@@ -6847,6 +6849,7 @@
             },
             "PrimaryWeapons": {
                 "MP7": {
+                    "Image": "MP7",
                     "SightAttachments": {
                         "HOLO A": "HOLO A",
                         "HOLO B": "HOLO B",
