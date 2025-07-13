@@ -464,7 +464,12 @@
                 "Claymore": "Claymore"
             },
             "PrimaryWeapons": {
-                "H.U.L.L. Adaptable Shield": "Weapons/PrimaryWeapons/H.U.L.L._ADAPTABLE_SHIELD.png",
+                "H.U.L.L. Adaptable Shield": {
+                    "Image": "Weapons/PrimaryWeapons/H.U.L.L._ADAPTABLE_SHIELD.png",
+                    "Required": true
+                }
+            },
+            "SecondaryWeapons": {
                 "Mk17 CQB": {
                     "Image": "MK17 CQB",
                     "BarrelAttachments": {
@@ -546,7 +551,8 @@
                 "Smoke Grenade": "Smoke Grenade"
             },
             "PrimaryWeapons": {
-                "G52-Tactical Shield": "Weapons/PrimaryWeapons/G52-Tactical_Shield.png"
+                "G52-Tactical Shield": "Weapons/PrimaryWeapons/G52-Tactical_Shield.png",
+                "Required": true
             },
             "SecondaryWeapons": {
                 "P12": {
@@ -559,7 +565,8 @@
                     "UnderBarrelAttachments": {
                         "LASER": "LASER",
                         "None": "None"
-                    }
+                    },
+                    "Required": true
                 }
             }
         },
@@ -2422,7 +2429,10 @@
                 "Smoke Grenade": "Smoke Grenade"
             },
             "PrimaryWeapons": {
-                "LE ROC SHIELD": "Weapons/PrimaryWeapons/LE_ROC_SHIELD.png"
+                "LE ROC SHIELD": {
+                    "Image": "Weapons/PrimaryWeapons/LE_ROC_SHIELD.png",
+                    "Required": true
+                }
             },
             "SecondaryWeapons": {
                 "LFP589": {
@@ -3824,7 +3834,8 @@
             },
             "PrimaryWeapons": {
                 "CCE Shield": {
-                    "Image": "CCE Shield"
+                    "Image": "CCE Shield",
+                    "Required": true
                 }
             },
             "SecondaryWeapons": {
