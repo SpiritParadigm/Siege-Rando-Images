@@ -4343,6 +4343,7 @@
                     }
                 },
                 "MP5": {
+                    "Image": "MP5",
                     "SightAttachments": {
                         "MAGNIFIED A": "MAGNIFIED A",
                         "MAGNIFIED B": "MAGNIFIED B",
@@ -4477,6 +4478,7 @@
                     }
                 },
                 "MP5": {
+                    "Image": "MP5",
                     "SightAttachments": {
                         "MAGNIFIED A": "MAGNIFIED A",
                         "MAGNIFIED B": "MAGNIFIED B",
@@ -5160,6 +5162,7 @@
             },
             "SecondaryWeapons": {
                 "Luison": {
+                    "Image": "Luison",
                     "UnderBarrelAttachments": {
                         "LASER": "LASER",
                         "None": "None"
@@ -6290,6 +6293,7 @@
             "Equipment": {},
             "PrimaryWeapons": {
                 "MP5": {
+                    "Image": "MP5",
                     "SightAttachments": {
                         "HOLO A": "HOLO A",
                         "HOLO B": "HOLO B",
