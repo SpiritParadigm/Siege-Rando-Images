@@ -2015,7 +2015,7 @@
             },
             "PrimaryWeapons": {
                 "C7E": {
-                    "Image": "",
+                    "Image": "C7E",
                     "SightAttachments": {
                         "MAGNIFIED A": "MAGNIFIED A",
                         "MAGNIFIED B": "MAGNIFIED B",
@@ -7129,7 +7129,7 @@
             },
             "PrimaryWeapons": {
                 "PCX-33": {
-                    "Image": "",
+                    "Image": "PCX-33",
                     "SightAttachments": {
                         "HOLO A": "HOLO A",
                         "HOLO B": "HOLO B",
